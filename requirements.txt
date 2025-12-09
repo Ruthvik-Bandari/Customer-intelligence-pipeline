@@ -1,0 +1,23 @@
+# Customer Intelligence Pipeline - Dependencies
+# Python 3.8+
+
+# Data Manipulation
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Database
+# sqlite3 is built-in to Python
+
+# NLP
+textblob>=0.17.1
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+
+# Jupyter
+notebook>=6.5.0
+ipykernel>=6.20.0

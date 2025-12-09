@@ -1,0 +1,1001 @@
+ID,Gender,Education,Raw_Income,Total_Spend,Avg_Visits,Review_Text,Clean_Income,Spend_per_Visit,Review_Word_Count,Sentiment_Score,User_Segment
+1,Male,Bachelors,36000,683.26,6,Just the facts: it is bad (Ref:1-227).,36000.0,113.87666666666667,7,-0.6999999999999998,2
+2,Female,Masters,"$107,000",1090.29,22,My experience with this: expensive (Ref:2-467).,107000.0,49.55863636363636,6,-0.5,0
+3,Male,Masters,20000,597.91,18,My opinion: it is frustrating (Ref:3-620).,20000.0,33.21722222222222,6,-0.4,2
+4,Male,Masters,"$20,000",143.21,5,Just the facts: it is bad (Ref:4-150).,20000.0,28.642000000000003,7,-0.6999999999999998,1
+5,Male,Bachelors,"$41,000",486.49,17,I felt it was functional (Ref:5-886).,41000.0,28.617058823529412,6,0.0,2
+6,Male,Bachelors,21000,81.12,4,My friends also agree that it is frustrating (Ref:6-580).,21000.0,20.28,9,-0.4,1
+7,Male,High School,"$134,000",827.12,20,My friends also agree that it is functional (Ref:7-854).,134000.0,41.356,9,0.0,0
+8,Male,Bachelors,"$89,000",856.93,22,Just the facts: it is terrible (Ref:8-754).,89000.0,38.95136363636363,7,-1.0,0
+9,Male,High School,"$20,000",871.32,20,"I thought the price was high, and I think it is a normal one (Ref:9-238).",20000.0,43.566,15,0.155,2
+10,Female,Bachelors,"$20,000",234.71,5,My opinion: it is frustrating (Ref:10-969).,20000.0,46.942,6,-0.4,1
+11,Male,Bachelors,20000,810.79,20,My opinion: it is excellent (Ref:11-242).,20000.0,40.5395,6,1.0,2
+12,Female,Bachelors,"$53,000",707.27,17,My experience with this: slow (Ref:12-417).,53000.0,41.60411764705882,6,-0.30000000000000004,2
+13,Male,Masters,"$20,000",117.55,4,My friends also agree that it is bad (Ref:13-748).,20000.0,29.3875,9,-0.6999999999999998,1
+14,Female,Bachelors,"$20,000",389.06,17,I felt it was average (Ref:14-750).,20000.0,22.885882352941177,6,-0.15,1
+15,Male,High School,"$79,000",708.69,24,"This is terrible, you get what you pay for (Ref:15-537).",79000.0,29.528750000000002,10,-1.0,0
+16,Female,Bachelors,47000,1117.76,23,I felt it was wonderful (Ref:16-476).,47000.0,48.598260869565216,6,1.0,2
+17,Male,Bachelors,29000,936.68,22,My friends also agree that it is expensive (Ref:17-200).,29000.0,42.57636363636363,9,-0.5,2
+18,Female,Bachelors,"$134,000",773.85,17,I felt it was functional (Ref:18-624).,134000.0,45.52058823529412,6,0.0,0
+19,Male,High School,40000,60.24,2,I felt it was functional (Ref:19-255).,40000.0,30.12,6,0.0,1
+20,Male,Bachelors,"$44,000",260.29,5,My opinion: it is expensive (Ref:20-123).,44000.0,52.05800000000001,6,-0.5,1
+21,Female,Bachelors,20000,274.77,7,My friends also agree that it is expensive (Ref:21-472).,20000.0,39.25285714285714,9,-0.5,1
+22,Other,Bachelors,"$20,000",429.34,8,"I thought the price was high, and I think it is frustrating (Ref:22-299).",20000.0,53.6675,13,-0.12000000000000001,1
+23,Male,Bachelors,82000,438.09,6,Just the facts: it is slow (Ref:23-559).,82000.0,73.015,7,-0.30000000000000004,0
+24,Female,Masters,"$20,000",359.13,6,"I believe the price is reasonablen, the product: average (Ref:24-669).",20000.0,59.855,10,-0.15,1
+25,Female,Bachelors,69000,217.68,7,My friends also agree that it is bad (Ref:25-606).,69000.0,31.09714285714286,9,-0.6999999999999998,1
+26,Female,High School,55000,1065.84,22,My friends also agree that it is disappointing (Ref:26-622).,55000.0,48.447272727272725,9,-0.6,2
+27,Male,Masters,"$59,000",716.72,13,My opinion: it is disappointing (Ref:27-399).,59000.0,55.13230769230769,6,-0.6,2
+28,Male,Bachelors,"$109,000",807.73,21,My friends also agree that it is as described (Ref:28-459).,109000.0,38.46333333333333,10,0.0,0
+29,Male,Masters,"$20,000",235.0,5,Just the facts: it is a normal one (Ref:29-241).,20000.0,47.0,9,0.15,1
+30,Female,Bachelors,"$20,000",57.27,1,I felt it was buggy (Ref:30-312).,20000.0,57.27,6,0.0,1
+31,Male,High School,"$86,000",712.56,15,My experience with this: a normal one (Ref:31-449).,86000.0,47.504,8,0.15,0
+32,Male,Bachelors,20000,218.21,9,"This is as described, you get what you pay for (Ref:32-384).",20000.0,24.245555555555555,11,0.0,1
+33,Other,High School,98000,811.19,18,"I believe the price is reasonablen, the product: as it is (Ref:33-906).",98000.0,45.06611111111111,12,0.0,0
+34,Female,Bachelors,"$20,000",818.63,15,My friends also agree that it is as it is (Ref:34-248).,20000.0,54.57533333333333,11,0.0,2
+35,Female,Masters,"$20,000",107.37,4,I felt it was expensive (Ref:35-571).,20000.0,26.8425,6,-0.5,1
+36,Male,High School,20000,240.07,4,My friends also agree that it is expensive (Ref:36-269).,20000.0,60.0175,9,-0.5,1
+37,Female,Bachelors,20000,669.34,17,My opinion: it is as it is (Ref:37-635).,20000.0,39.37294117647059,8,0.0,2
+38,Female,Bachelors,64000,50.0,1,My opinion: it is buggy (Ref:38-366).,64000.0,50.0,6,0.0,1
+39,Male,Masters,20000,110.31,1,"This is buggy, you get what you pay for (Ref:39-736).",20000.0,110.31,10,0.0,1
+40,Female,Masters,20000,553.79,21,"I believe the price is reasonablen, the product: as described (Ref:40-984).",20000.0,26.370952380952378,11,0.0,2
+41,Other,High School,"$20,000",120.36,7,My experience with this: buggy (Ref:41-978).,20000.0,17.194285714285716,6,0.0,1
+42,Female,Bachelors,"$149,000",1024.18,23,"I thought the price was high, and I think it is lovely (Ref:42-899).",149000.0,44.52956521739131,13,0.33,0
+43,Male,Bachelors,83000,515.09,12,I felt it was lovely (Ref:43-280).,83000.0,42.92416666666667,6,0.5,0
+44,Female,Bachelors,"$134,000",478.96,12,My friends also agree that it is average (Ref:44-906).,134000.0,39.913333333333334,9,-0.15,0
+45,Male,Bachelors,20000,417.51,11,My friends also agree that it is bad (Ref:45-382).,20000.0,37.95545454545454,9,-0.6999999999999998,1
+46,Male,Bachelors,20000,151.49,4,I felt it was as described (Ref:46-965).,20000.0,37.8725,7,0.0,1
+47,Female,Bachelors,"$20,000",202.11,5,"This is terrible, you get what you pay for (Ref:47-412).",20000.0,40.422000000000004,10,-1.0,1
+48,Male,Bachelors,109000,602.25,10,My friends also agree that it is disappointing (Ref:48-230).,109000.0,60.225,9,-0.6,0
+49,Male,Masters,"$135,000",384.92,7,My opinion: it is bad (Ref:49-939).,135000.0,54.98857142857143,6,-0.6999999999999998,0
+50,Male,Bachelors,20000,296.66,8,"I believe the price is reasonablen, the product: terrible (Ref:50-704).",20000.0,37.0825,10,-1.0,1
+51,Male,Bachelors,24000,210.34,8,"I believe the price is reasonablen, the product: bad (Ref:51-309).",24000.0,26.2925,10,-0.6999999999999998,1
+52,Female,Bachelors,"$20,000",134.63,4,"I thought the price was high, and I think it is a normal one (Ref:52-434).",20000.0,33.6575,15,0.155,1
+53,Male,Bachelors,27000,49.72,4,My friends also agree that it is disappointing (Ref:53-547).,27000.0,12.43,9,-0.6,1
+54,Male,High School,143000,532.42,18,My friends also agree that it is functional (Ref:54-945).,143000.0,29.578888888888887,9,0.0,0
+55,Female,Masters,"$90,000",650.84,19,My experience with this: functional (Ref:55-879).,90000.0,34.25473684210527,6,0.0,0
+56,Male,Masters,"$96,000",206.82,3,"I thought the price was high, and I think it is a normal one (Ref:56-488).",96000.0,68.94,15,0.155,1
+57,Female,Bachelors,63000,954.85,20,"This is functional, you get what you pay for (Ref:57-348).",63000.0,47.7425,10,0.0,2
+58,Male,Masters,46000,851.36,22,Just the facts: it is as described (Ref:58-781).,46000.0,38.698181818181816,8,0.0,2
+59,Female,Bachelors,"$46,000",817.44,24,Just the facts: it is wonderful (Ref:59-535).,46000.0,34.06,7,1.0,2
+60,Female,Bachelors,63000,652.13,16,My opinion: it is lovely (Ref:60-362).,63000.0,40.758125,6,0.5,2
+61,Male,Masters,"$35,000",151.65,1,"I thought the price was high, and I think it is frustrating (Ref:61-614).",35000.0,151.65,13,-0.12000000000000001,1
+62,Male,High School,20000,248.47,2,My friends also agree that it is slow (Ref:62-364).,20000.0,124.235,9,-0.30000000000000004,1
+63,Female,Bachelors,"$20,000",1014.35,22,My friends also agree that it is frustrating (Ref:63-460).,20000.0,46.106818181818184,9,-0.4,2
+64,Male,Masters,34000,718.2,22,"I believe the price is reasonablen, the product: terrible (Ref:64-660).",34000.0,32.64545454545455,10,-1.0,2
+65,Male,Bachelors,71000,378.68,8,My friends also agree that it is average (Ref:65-291).,71000.0,47.335,9,-0.15,1
+66,Female,Bachelors,67000,643.33,13,I felt it was bad (Ref:66-843).,67000.0,49.48692307692308,6,-0.6999999999999998,2
+67,Female,Bachelors,44000,27.38,3,My opinion: it is bad (Ref:67-552).,44000.0,9.126666666666667,6,-0.6999999999999998,1
+68,Female,Bachelors,"$86,000",833.51,24,"I thought the price was high, and I think it is slow (Ref:68-696).",86000.0,34.72958333333333,13,-0.07000000000000002,0
+69,Female,Masters,68000,456.14,9,My friends also agree that it is as described (Ref:69-538).,68000.0,50.68222222222222,10,0.0,2
+70,Female,Bachelors,20000,343.78,7,"I thought the price was high, and I think it is terrible (Ref:70-697).",20000.0,49.11142857142857,13,-0.42,1
+71,Female,High School,"$109,000",359.56,14,My experience with this: as it is (Ref:71-790).,109000.0,25.68285714285714,8,0.0,0
+72,Male,Masters,32000,532.27,12,I felt it was the best (Ref:72-285).,32000.0,44.35583333333333,7,1.0,2
+73,Male,Bachelors,"$82,000",641.14,20,My opinion: it is frustrating (Ref:73-438).,82000.0,32.057,6,-0.4,0
+74,Female,Masters,"$37,000",82.75,3,My friends also agree that it is bad (Ref:74-160).,37000.0,27.583333333333332,9,-0.6999999999999998,1
+75,Male,Masters,"$30,000",617.4,15,"I believe the price is reasonablen, the product: as described (Ref:75-778).",30000.0,41.16,11,0.0,2
+76,Male,Bachelors,"$111,000",907.46,22,"I thought the price was high, and I think it is terrible (Ref:76-593).",111000.0,41.24818181818182,13,-0.42,0
+77,Female,Bachelors,20000,50.0,11,"I thought the price was high, and I think it is average (Ref:77-827).",20000.0,4.545454545454546,13,0.0050000000000000044,1
+78,Male,Bachelors,"$50,000",858.88,19,Just the facts: it is disappointing (Ref:78-856).,50000.0,45.20421052631579,7,-0.6,2
+79,Female,Bachelors,20000,876.36,23,My friends also agree that it is slow (Ref:79-699).,20000.0,38.10260869565217,9,-0.30000000000000004,2
+80,Female,Masters,88000,143.22,6,I felt it was disappointing (Ref:80-271).,88000.0,23.87,6,-0.6,1
+81,Female,Bachelors,"$20,000",602.28,14,My experience with this: amazing (Ref:81-607).,20000.0,43.019999999999996,6,0.6000000000000001,2
+82,Female,Masters,20000,503.19,14,My experience with this: bad (Ref:82-626).,20000.0,35.942142857142855,6,-0.6999999999999998,2
+83,Female,Bachelors,73000,412.09,16,"I believe the price is reasonablen, the product: a normal one (Ref:83-659).",73000.0,25.755625,12,0.15,1
+84,Male,Bachelors,68000,877.51,21,"This is a normal one, you get what you pay for (Ref:84-340).",68000.0,41.78619047619048,12,0.15,2
+85,Male,Bachelors,"$20,000",489.79,15,"I believe the price is reasonablen, the product: disappointing (Ref:85-486).",20000.0,32.65266666666667,10,-0.6,2
+86,Female,Bachelors,20000,153.14,7,My friends also agree that it is frustrating (Ref:86-218).,20000.0,21.877142857142854,9,-0.4,1
+87,Male,Bachelors,"$20,000",342.94,12,My friends also agree that it is expensive (Ref:87-500).,20000.0,28.578333333333333,9,-0.5,1
+88,Other,Bachelors,"$97,000",686.72,23,"This is expensive, you get what you pay for (Ref:88-795).",97000.0,29.85739130434783,10,-0.5,0
+89,Female,Bachelors,"$132,000",835.97,17,My opinion: it is disappointing (Ref:89-515).,132000.0,49.174705882352946,6,-0.6,0
+90,Female,Masters,"$74,000",464.14,16,Just the facts: it is average (Ref:90-976).,74000.0,29.00875,7,-0.15,0
+91,Male,Bachelors,"$48,000",390.31,10,My friends also agree that it is as described (Ref:91-833).,48000.0,39.031,10,0.0,1
+92,Female,Bachelors,20000,773.8,20,"I thought the price was high, and I think it is frustrating (Ref:92-295).",20000.0,38.69,13,-0.12000000000000001,2
+93,Male,Bachelors,"$43,000",627.07,18,"This is slow, you get what you pay for (Ref:93-115).",43000.0,34.83722222222222,10,-0.30000000000000004,2
+94,Female,Bachelors,20000,148.54,1,Just the facts: it is a normal one (Ref:94-723).,20000.0,148.54,9,0.15,1
+95,Male,Bachelors,50000,458.14,14,"This is expensive, you get what you pay for (Ref:95-515).",50000.0,32.72428571428571,10,-0.5,1
+96,Male,Bachelors,"$35,000",552.14,16,"I thought the price was high, and I think it is a normal one (Ref:96-288).",35000.0,34.50875,15,0.155,2
+97,Female,High School,"$30,000",793.44,21,Just the facts: it is buggy (Ref:97-943).,30000.0,37.78285714285715,7,0.0,2
+98,Female,Masters,"$20,000",387.93,8,Just the facts: it is slow (Ref:98-797).,20000.0,48.49125,7,-0.30000000000000004,1
+99,Male,Bachelors,20000,50.0,3,My opinion: it is buggy (Ref:99-333).,20000.0,16.666666666666668,6,0.0,1
+100,Female,Bachelors,"$42,000",290.55,4,"This is a normal one, you get what you pay for (Ref:100-723).",42000.0,72.6375,12,0.15,1
+101,Male,Bachelors,72000,50.0,1,"I believe the price is reasonablen, the product: average (Ref:101-863).",72000.0,50.0,10,-0.15,1
+102,Female,Masters,"$58,000",716.49,17,My opinion: it is frustrating (Ref:102-268).,58000.0,42.146470588235296,6,-0.4,2
+103,Female,High School,"$20,000",95.53,1,I felt it was terrible (Ref:103-257).,20000.0,95.53,6,-1.0,1
+104,Male,Bachelors,"$89,000",378.54,10,I felt it was expensive (Ref:104-437).,89000.0,37.854,6,-0.5,0
+105,Female,Bachelors,"$41,000",303.6,5,Just the facts: it is slow (Ref:105-531).,41000.0,60.720000000000006,7,-0.30000000000000004,1
+106,Female,Bachelors,"$32,000",302.74,7,I felt it was expensive (Ref:106-826).,32000.0,43.24857142857143,6,-0.5,1
+107,Male,Masters,37000,285.94,7,"This is disappointing, you get what you pay for (Ref:107-388).",37000.0,40.848571428571425,10,-0.6,1
+108,Female,Bachelors,68000,552.87,18,"This is fantastic, you get what you pay for (Ref:108-925).",68000.0,30.715,10,0.4,2
+109,Female,Masters,20000,420.45,14,"This is a normal one, you get what you pay for (Ref:109-754).",20000.0,30.032142857142855,12,0.15,1
+110,Other,Masters,"$20,000",518.24,11,My experience with this: disappointing (Ref:110-400).,20000.0,47.11272727272728,6,-0.6,2
+111,Male,Bachelors,"$20,000",683.46,22,"This is as it is, you get what you pay for (Ref:111-899).",20000.0,31.066363636363636,12,0.0,2
+112,Male,Bachelors,"$126,000",939.17,20,"I thought the price was high, and I think it is a normal one (Ref:112-916).",126000.0,46.9585,15,0.155,0
+113,Female,Masters,139000,844.06,21,Just the facts: it is amazing (Ref:113-964).,139000.0,40.19333333333333,7,0.6000000000000001,0
+114,Female,Bachelors,"$20,000",373.64,10,I felt it was frustrating (Ref:114-167).,20000.0,37.364,6,-0.4,1
+115,Male,Bachelors,49000,154.51,7,My friends also agree that it is slow (Ref:115-630).,49000.0,22.072857142857142,9,-0.30000000000000004,1
+116,Female,Bachelors,73000,650.78,18,"This is functional, you get what you pay for (Ref:116-982).",73000.0,36.154444444444444,10,0.0,2
+117,Female,High School,"$53,000",882.39,20,"I thought the price was high, and I think it is as described (Ref:117-988).",53000.0,44.1195,14,0.16,2
+118,Female,Bachelors,95000,287.92,6,I felt it was as it is (Ref:118-384).,95000.0,47.98666666666667,8,0.0,0
+119,Female,Masters,"$76,000",837.84,22,"I thought the price was high, and I think it is a normal one (Ref:119-564).",76000.0,38.083636363636366,15,0.155,0
+120,Male,High School,20000,687.9,16,"This is terrible, you get what you pay for (Ref:120-978).",20000.0,42.99375,10,-1.0,2
+121,Male,Bachelors,37000,103.98,6,My experience with this: functional (Ref:121-814).,37000.0,17.330000000000002,6,0.0,1
+122,Male,High School,20000,553.24,13,"This is as described, you get what you pay for (Ref:122-307).",20000.0,42.55692307692308,11,0.0,2
+123,Male,Bachelors,143000,883.5,21,My experience with this: lovely (Ref:123-988).,143000.0,42.07142857142857,6,0.5,0
+124,Male,Bachelors,"$104,000",775.5,24,I felt it was as it is (Ref:124-900).,104000.0,32.3125,8,0.0,0
+125,Female,Bachelors,20000,50.0,2,I felt it was slow (Ref:125-508).,20000.0,25.0,6,-0.30000000000000004,1
+126,Female,Bachelors,"$20,000",763.18,23,"This is amazing, you get what you pay for (Ref:126-452).",20000.0,33.18173913043478,10,0.6000000000000001,2
+127,Female,Bachelors,"$20,000",374.83,11,My friends also agree that it is bad (Ref:127-410).,20000.0,34.07545454545454,9,-0.6999999999999998,1
+128,Female,Bachelors,"$65,000",570.93,16,"I believe the price is reasonablen, the product: functional (Ref:128-509).",65000.0,35.683125,10,0.0,2
+129,Male,Bachelors,66000,1045.58,23,I felt it was excellent (Ref:129-960).,66000.0,45.459999999999994,6,1.0,2
+130,Male,Bachelors,20000,50.0,6,"I believe the price is reasonablen, the product: frustrating (Ref:130-269).",20000.0,8.333333333333334,10,-0.4,1
+131,Female,Bachelors,20000,662.18,16,Just the facts: it is a normal one (Ref:131-930).,20000.0,41.38625,9,0.15,2
+132,Other,Bachelors,"$20,000",680.52,17,My friends also agree that it is bad (Ref:132-451).,20000.0,40.03058823529412,9,-0.6999999999999998,2
+133,Female,Bachelors,28000,495.18,11,I felt it was a normal one (Ref:133-771).,28000.0,45.016363636363636,8,0.15,2
+134,Male,Bachelors,55000,280.21,9,My friends also agree that it is as it is (Ref:134-647).,55000.0,31.13444444444444,11,0.0,1
+135,Female,Bachelors,"$102,000",298.4,6,My experience with this: terrible (Ref:135-437).,102000.0,49.73333333333333,6,-1.0,0
+136,Male,High School,"$155,000",562.11,9,My opinion: it is great (Ref:136-389).,155000.0,62.45666666666667,6,0.8,0
+137,Female,Bachelors,"$169,000",1104.86,24,Just the facts: it is frustrating (Ref:137-983).,169000.0,46.03583333333333,7,-0.4,0
+138,Male,Masters,"$56,000",906.28,23,"I thought the price was high, and I think it is frustrating (Ref:138-465).",56000.0,39.40347826086956,13,-0.12000000000000001,2
+139,Female,Masters,"$115,000",985.41,18,"I thought the price was high, and I think it is disappointing (Ref:139-497).",115000.0,54.745,13,-0.21999999999999997,0
+140,Female,Masters,"$83,000",1227.98,24,Just the facts: it is terrible (Ref:140-101).,83000.0,51.16583333333333,7,-1.0,0
+141,Female,High School,66000,742.47,20,"I thought the price was high, and I think it is the best (Ref:141-911).",66000.0,37.1235,14,0.58,2
+142,Male,Bachelors,20000,326.87,4,My opinion: it is buggy (Ref:142-171).,20000.0,81.7175,6,0.0,1
+143,Male,Bachelors,20000,865.03,21,My opinion: it is slow (Ref:143-563).,20000.0,41.19190476190476,6,-0.30000000000000004,2
+144,Male,Bachelors,20000,50.0,2,"I thought the price was high, and I think it is frustrating (Ref:144-914).",20000.0,25.0,13,-0.12000000000000001,1
+145,Male,Bachelors,"$119,000",951.47,24,Just the facts: it is average (Ref:145-755).,119000.0,39.64458333333334,7,-0.15,0
+146,Male,Masters,20000,370.68,10,Just the facts: it is expensive (Ref:146-976).,20000.0,37.068,7,-0.5,1
+147,Male,Bachelors,"$20,000",537.71,12,"This is slow, you get what you pay for (Ref:147-725).",20000.0,44.80916666666667,10,-0.30000000000000004,2
+148,Female,Bachelors,"$20,000",812.89,22,"I thought the price was high, and I think it is lovely (Ref:148-408).",20000.0,36.94954545454545,13,0.33,2
+149,Female,Bachelors,"$52,000",959.13,24,"I thought the price was high, and I think it is wonderful (Ref:149-232).",52000.0,39.96375,13,0.58,2
+150,Male,Bachelors,"$20,000",128.48,9,"This is terrible, you get what you pay for (Ref:150-690).",20000.0,14.275555555555554,10,-1.0,1
+151,Male,Masters,"$28,000",115.67,1,"I thought the price was high, and I think it is disappointing (Ref:151-893).",28000.0,115.67,13,-0.21999999999999997,1
+152,Other,Masters,"$102,000",868.08,18,I felt it was a normal one (Ref:152-436).,102000.0,48.22666666666667,8,0.15,0
+153,Female,Bachelors,144000,858.87,15,I felt it was average (Ref:153-284).,144000.0,57.258,6,-0.15,0
+154,Male,Bachelors,"$119,000",1120.01,24,"This is excellent, you get what you pay for (Ref:154-680).",119000.0,46.66708333333333,10,1.0,0
+155,Male,Bachelors,"$30,000",190.31,8,"This is as it is, you get what you pay for (Ref:155-224).",30000.0,23.78875,12,0.0,1
+156,Female,Bachelors,"$118,000",1096.9,23,My experience with this: lovely (Ref:156-944).,118000.0,47.69130434782609,6,0.5,0
+157,Male,Bachelors,28000,971.95,19,"I believe the price is reasonablen, the product: great (Ref:157-966).",28000.0,51.15526315789474,10,0.8,2
+158,Female,Masters,"$54,000",528.05,19,"This is average, you get what you pay for (Ref:158-872).",54000.0,27.792105263157893,10,-0.15,2
+159,Other,Bachelors,"$97,000",272.88,11,My opinion: it is as it is (Ref:159-641).,97000.0,24.80727272727273,8,0.0,0
+160,Female,Masters,20000,128.41,1,"This is frustrating, you get what you pay for (Ref:160-406).",20000.0,128.41,10,-0.4,1
+161,Male,Bachelors,82000,737.55,20,My experience with this: wonderful (Ref:161-428).,82000.0,36.8775,6,1.0,0
+162,Female,High School,54000,609.96,11,"I believe the price is reasonablen, the product: the best (Ref:162-291).",54000.0,55.45090909090909,11,1.0,2
+163,Female,Bachelors,"$44,000",170.96,3,My experience with this: frustrating (Ref:163-439).,44000.0,56.98666666666667,6,-0.4,1
+164,Female,Bachelors,"$20,000",454.39,11,"I thought the price was high, and I think it is frustrating (Ref:164-715).",20000.0,41.308181818181815,13,-0.12000000000000001,1
+165,Male,Bachelors,"$20,000",50.0,3,"This is as described, you get what you pay for (Ref:165-477).",20000.0,16.666666666666668,11,0.0,1
+166,Male,Masters,20000,615.39,12,Just the facts: it is disappointing (Ref:166-499).,20000.0,51.2825,7,-0.6,2
+167,Male,Bachelors,"$20,000",205.42,5,My experience with this: functional (Ref:167-377).,20000.0,41.083999999999996,6,0.0,1
+168,Female,Bachelors,20000,639.41,7,"This is amazing, you get what you pay for (Ref:168-744).",20000.0,91.3442857142857,10,0.6000000000000001,2
+169,Female,Bachelors,37000,533.85,7,"This is disappointing, you get what you pay for (Ref:169-377).",37000.0,76.26428571428572,10,-0.6,2
+170,Female,High School,20000,67.95,3,My experience with this: buggy (Ref:170-580).,20000.0,22.650000000000002,6,0.0,1
+171,Male,Bachelors,103000,514.1,13,"I believe the price is reasonablen, the product: as it is (Ref:171-623).",103000.0,39.54615384615385,12,0.0,0
+172,Other,Bachelors,119000,320.78,5,"I believe the price is reasonablen, the product: slow (Ref:172-409).",119000.0,64.15599999999999,10,-0.30000000000000004,0
+173,Female,Bachelors,22000,61.23,1,Just the facts: it is functional (Ref:173-763).,22000.0,61.23,7,0.0,1
+174,Male,High School,"$48,000",50.0,3,Just the facts: it is slow (Ref:174-325).,48000.0,16.666666666666668,7,-0.30000000000000004,1
+175,Female,Masters,135000,416.68,13,My experience with this: disappointing (Ref:175-497).,135000.0,32.05230769230769,6,-0.6,0
+176,Female,Masters,80000,491.02,9,My friends also agree that it is bad (Ref:176-486).,80000.0,54.55777777777777,9,-0.6999999999999998,0
+177,Female,Bachelors,63000,950.21,24,Just the facts: it is as it is (Ref:177-417).,63000.0,39.592083333333335,9,0.0,2
+178,Male,Masters,"$20,000",870.12,16,My friends also agree that it is functional (Ref:178-202).,20000.0,54.3825,9,0.0,2
+179,Male,Bachelors,57000,306.78,12,"I believe the price is reasonablen, the product: bad (Ref:179-662).",57000.0,25.564999999999998,10,-0.6999999999999998,1
+180,Male,Masters,20000,470.42,16,My opinion: it is expensive (Ref:180-160).,20000.0,29.40125,6,-0.5,1
+181,Female,Bachelors,"$20,000",806.55,20,My opinion: it is fantastic (Ref:181-826).,20000.0,40.3275,6,0.4,2
+182,Male,Bachelors,"$103,000",792.79,22,My opinion: it is expensive (Ref:182-437).,103000.0,36.03590909090909,6,-0.5,0
+183,Female,Bachelors,"$66,000",891.0,22,"I believe the price is reasonablen, the product: a normal one (Ref:183-553).",66000.0,40.5,12,0.15,2
+184,Male,Bachelors,88000,492.83,16,"This is a normal one, you get what you pay for (Ref:184-694).",88000.0,30.801875,12,0.15,0
+185,Male,Masters,"$20,000",831.73,16,I felt it was as it is (Ref:185-152).,20000.0,51.983125,8,0.0,2
+186,Female,Bachelors,173000,1077.66,23,"This is average, you get what you pay for (Ref:186-953).",173000.0,46.85478260869566,10,-0.15,0
+187,Male,Masters,"$75,000",784.92,20,"I believe the price is reasonablen, the product: terrible (Ref:187-551).",75000.0,39.245999999999995,10,-1.0,0
+188,Female,Bachelors,"$20,000",753.91,19,My opinion: it is frustrating (Ref:188-252).,20000.0,39.67947368421053,6,-0.4,2
+189,Female,Bachelors,20000,26.6,6,My friends also agree that it is average (Ref:189-540).,20000.0,4.433333333333334,9,-0.15,1
+190,Female,Bachelors,31000,773.45,21,"This is slow, you get what you pay for (Ref:190-282).",31000.0,36.83095238095238,10,-0.30000000000000004,2
+191,Male,Masters,"$20,000",261.08,7,My friends also agree that it is expensive (Ref:191-175).,20000.0,37.29714285714285,9,-0.5,1
+192,Male,High School,"$71,000",878.59,20,I felt it was slow (Ref:192-447).,71000.0,43.929500000000004,6,-0.30000000000000004,2
+193,Female,Masters,44000,513.26,11,My experience with this: average (Ref:193-836).,44000.0,46.66,6,-0.15,2
+194,Female,Bachelors,29000,367.81,16,"This is functional, you get what you pay for (Ref:194-555).",29000.0,22.988125,10,0.0,1
+195,Female,Masters,"$20,000",296.2,6,Just the facts: it is as it is (Ref:195-706).,20000.0,49.36666666666667,9,0.0,1
+196,Female,Bachelors,"$77,000",547.06,12,My experience with this: lovely (Ref:196-294).,77000.0,45.58833333333333,6,0.5,0
+197,Male,Bachelors,"$20,000",380.09,12,Just the facts: it is as it is (Ref:197-442).,20000.0,31.674166666666665,9,0.0,1
+198,Male,Bachelors,20000,431.88,4,My friends also agree that it is bad (Ref:198-296).,20000.0,107.97,9,-0.6999999999999998,1
+199,Female,Bachelors,79000,646.4,20,Just the facts: it is fantastic (Ref:199-173).,79000.0,32.32,7,0.4,0
+200,Female,Masters,171000,943.01,21,My experience with this: buggy (Ref:200-205).,171000.0,44.9052380952381,6,0.0,0
+201,Other,Masters,"$101,000",540.33,10,Just the facts: it is the best (Ref:201-145).,101000.0,54.033,8,1.0,0
+202,Female,Bachelors,"$58,000",770.87,22,My opinion: it is buggy (Ref:202-120).,58000.0,35.039545454545454,6,0.0,2
+203,Female,Bachelors,"$20,000",309.75,13,I felt it was disappointing (Ref:203-196).,20000.0,23.826923076923077,6,-0.6,1
+204,Female,Bachelors,60000,110.33,4,Just the facts: it is disappointing (Ref:204-288).,60000.0,27.5825,7,-0.6,1
+205,Male,Bachelors,"$85,000",885.35,17,"I thought the price was high, and I think it is bad (Ref:205-325).",85000.0,52.07941176470588,13,-0.2699999999999999,0
+206,Female,Bachelors,20000,538.56,10,My friends also agree that it is excellent (Ref:206-140).,20000.0,53.855999999999995,9,1.0,2
+207,Female,Bachelors,85000,807.32,21,Just the facts: it is as described (Ref:207-452).,85000.0,38.44380952380953,8,0.0,0
+208,Female,Bachelors,66000,839.9,18,My experience with this: great (Ref:208-210).,66000.0,46.66111111111111,6,0.8,2
+209,Female,Bachelors,82000,401.27,8,My friends also agree that it is disappointing (Ref:209-240).,82000.0,50.15875,9,-0.6,0
+210,Female,Bachelors,"$65,000",685.86,17,Just the facts: it is slow (Ref:210-946).,65000.0,40.34470588235294,7,-0.30000000000000004,2
+211,Male,Bachelors,"$72,000",765.05,22,"I believe the price is reasonablen, the product: average (Ref:211-127).",72000.0,34.775,10,-0.15,2
+212,Other,Bachelors,"$119,000",810.7,16,Just the facts: it is lovely (Ref:212-496).,119000.0,50.66875,7,0.5,0
+213,Male,High School,"$20,000",331.17,8,My experience with this: terrible (Ref:213-834).,20000.0,41.39625,6,-1.0,1
+214,Male,Bachelors,55000,671.59,20,"This is as described, you get what you pay for (Ref:214-903).",55000.0,33.5795,11,0.0,2
+215,Male,Bachelors,55000,74.74,4,My friends also agree that it is terrible (Ref:215-190).,55000.0,18.685,9,-1.0,1
+216,Female,Bachelors,49000,360.87,4,"This is disappointing, you get what you pay for (Ref:216-362).",49000.0,90.2175,10,-0.6,1
+217,Male,Bachelors,"$50,000",1149.91,23,My friends also agree that it is great (Ref:217-162).,50000.0,49.996086956521744,9,0.8,2
+218,Female,Bachelors,"$20,000",824.12,19,"I thought the price was high, and I think it is great (Ref:218-196).",20000.0,43.374736842105264,13,0.48000000000000004,2
+219,Female,Bachelors,"$36,000",902.76,22,My friends also agree that it is as described (Ref:219-397).,36000.0,41.03454545454545,10,0.0,2
+220,Male,Bachelors,"$48,000",1049.35,24,I felt it was as described (Ref:220-364).,48000.0,43.72291666666666,7,0.0,2
+221,Male,Bachelors,"$134,000",535.85,16,My experience with this: functional (Ref:221-678).,134000.0,33.490625,6,0.0,0
+222,Male,Bachelors,20000,590.69,16,"This is frustrating, you get what you pay for (Ref:222-204).",20000.0,36.918125,10,-0.4,2
+223,Male,Bachelors,"$97,000",487.43,13,My experience with this: expensive (Ref:223-253).,97000.0,37.494615384615386,6,-0.5,0
+224,Female,Masters,"$67,000",403.03,12,My experience with this: buggy (Ref:224-923).,67000.0,33.58583333333333,6,0.0,1
+225,Male,Bachelors,76000,511.14,8,My opinion: it is functional (Ref:225-815).,76000.0,63.8925,6,0.0,0
+226,Female,Bachelors,"$23,000",837.53,17,My opinion: it is as it is (Ref:226-821).,23000.0,49.26647058823529,8,0.0,2
+227,Female,Bachelors,"$81,000",828.19,19,I felt it was as described (Ref:227-793).,81000.0,43.58894736842105,7,0.0,0
+228,Female,Bachelors,108000,481.22,19,Just the facts: it is terrible (Ref:228-804).,108000.0,25.327368421052633,7,-1.0,0
+229,Female,High School,20000,788.36,19,"I thought the price was high, and I think it is frustrating (Ref:229-101).",20000.0,41.49263157894737,13,-0.12000000000000001,2
+230,Female,Masters,"$23,000",363.53,3,My opinion: it is a normal one (Ref:230-277).,23000.0,121.17666666666666,8,0.15,1
+231,Female,Bachelors,43000,567.04,11,Just the facts: it is frustrating (Ref:231-616).,43000.0,51.54909090909091,7,-0.4,2
+232,Female,Bachelors,"$20,000",542.08,19,My experience with this: bad (Ref:232-474).,20000.0,28.530526315789476,6,-0.6999999999999998,2
+233,Female,Bachelors,23000,1004.25,22,"I believe the price is reasonablen, the product: buggy (Ref:233-955).",23000.0,45.64772727272727,10,0.0,2
+234,Male,Bachelors,"$44,000",168.64,9,My friends also agree that it is slow (Ref:234-438).,44000.0,18.737777777777776,9,-0.30000000000000004,1
+235,Female,Bachelors,"$53,000",702.24,16,My friends also agree that it is functional (Ref:235-585).,53000.0,43.89,9,0.0,2
+236,Female,Bachelors,"$20,000",233.15,2,"This is buggy, you get what you pay for (Ref:236-748).",20000.0,116.575,10,0.0,1
+237,Male,Masters,20000,210.89,12,"This is terrible, you get what you pay for (Ref:237-694).",20000.0,17.574166666666667,10,-1.0,1
+238,Female,Bachelors,"$71,000",491.58,10,My opinion: it is average (Ref:238-587).,71000.0,49.158,6,-0.15,2
+239,Male,Bachelors,21000,457.32,10,My friends also agree that it is frustrating (Ref:239-395).,21000.0,45.732,9,-0.4,1
+240,Female,High School,"$84,000",855.98,16,My experience with this: disappointing (Ref:240-849).,84000.0,53.49875,6,-0.6,0
+241,Male,Bachelors,21000,456.36,13,"I thought the price was high, and I think it is average (Ref:241-380).",21000.0,35.104615384615386,13,0.0050000000000000044,1
+242,Female,Bachelors,44000,76.65,5,I felt it was bad (Ref:242-609).,44000.0,15.330000000000002,6,-0.6999999999999998,1
+243,Female,Bachelors,73000,427.81,16,My friends also agree that it is buggy (Ref:243-264).,73000.0,26.738125,9,0.0,1
+244,Male,Masters,"$20,000",624.25,19,My opinion: it is functional (Ref:244-970).,20000.0,32.85526315789474,6,0.0,2
+245,Female,Masters,"$146,000",1039.1,18,"I believe the price is reasonablen, the product: average (Ref:245-656).",146000.0,57.727777777777774,10,-0.15,0
+246,Female,Masters,"$35,000",764.11,23,"I thought the price was high, and I think it is average (Ref:246-425).",35000.0,33.22217391304348,13,0.0050000000000000044,2
+247,Male,Bachelors,"$55,000",50.0,2,My friends also agree that it is a normal one (Ref:247-420).,55000.0,25.0,11,0.15,1
+248,Male,Masters,"$117,000",802.01,23,I felt it was functional (Ref:248-877).,117000.0,34.87,6,0.0,0
+249,Female,Bachelors,20000,869.41,23,"This is great, you get what you pay for (Ref:249-435).",20000.0,37.8004347826087,10,0.8,2
+250,Female,Bachelors,151000,538.03,16,"I thought the price was high, and I think it is the best (Ref:250-459).",151000.0,33.626875,14,0.58,0
+251,Male,Bachelors,72000,50.0,6,My friends also agree that it is slow (Ref:251-344).,72000.0,8.333333333333334,9,-0.30000000000000004,1
+252,Other,Bachelors,59000,96.81,6,My experience with this: disappointing (Ref:252-706).,59000.0,16.135,6,-0.6,1
+253,Male,Bachelors,47000,105.57,1,Just the facts: it is expensive (Ref:253-810).,47000.0,105.57,7,-0.5,1
+254,Other,Bachelors,20000,111.19,3,My opinion: it is functional (Ref:254-740).,20000.0,37.06333333333333,6,0.0,1
+255,Female,Bachelors,93000,671.7,16,"I thought the price was high, and I think it is lovely (Ref:255-752).",93000.0,41.98125,13,0.33,0
+256,Female,Masters,"$46,000",219.84,11,I felt it was buggy (Ref:256-476).,46000.0,19.985454545454544,6,0.0,1
+257,Female,Bachelors,145000,1034.36,24,"This is frustrating, you get what you pay for (Ref:257-588).",145000.0,43.09833333333333,10,-0.4,0
+258,Female,Bachelors,"$20,000",512.6,13,My opinion: it is fantastic (Ref:258-364).,20000.0,39.43076923076923,6,0.4,2
+259,Male,Masters,65000,291.31,9,My experience with this: a normal one (Ref:259-794).,65000.0,32.367777777777775,8,0.15,1
+260,Female,Bachelors,40000,520.78,11,"I thought the price was high, and I think it is the best (Ref:260-725).",40000.0,47.343636363636364,14,0.58,2
+261,Female,Bachelors,131000,694.62,22,I felt it was expensive (Ref:261-494).,131000.0,31.573636363636364,6,-0.5,0
+262,Female,Masters,20000,486.19,13,"This is average, you get what you pay for (Ref:262-973).",20000.0,37.39923076923077,10,-0.15,2
+263,Female,Masters,43000,1056.91,21,Just the facts: it is average (Ref:263-463).,43000.0,50.32904761904762,7,-0.15,2
+264,Female,Bachelors,20000,701.5,17,"This is a normal one, you get what you pay for (Ref:264-922).",20000.0,41.26470588235294,12,0.15,2
+265,Female,Bachelors,"$105,000",421.36,3,"I believe the price is reasonablen, the product: terrible (Ref:265-353).",105000.0,140.45333333333335,10,-1.0,0
+266,Male,Bachelors,"$20,000",156.74,1,"I thought the price was high, and I think it is a normal one (Ref:266-808).",20000.0,156.74,15,0.155,1
+267,Female,Bachelors,"$25,000",581.15,10,My opinion: it is as it is (Ref:267-268).,25000.0,58.114999999999995,8,0.0,2
+268,Female,Bachelors,23000,424.37,6,"This is as described, you get what you pay for (Ref:268-378).",23000.0,70.72833333333334,11,0.0,1
+269,Male,High School,"$85,000",825.39,18,"I thought the price was high, and I think it is frustrating (Ref:269-824).",85000.0,45.855,13,-0.12000000000000001,0
+270,Male,Masters,"$46,000",558.62,10,Just the facts: it is functional (Ref:270-583).,46000.0,55.862,7,0.0,2
+271,Male,Bachelors,20000,217.03,8,Just the facts: it is functional (Ref:271-406).,20000.0,27.12875,7,0.0,1
+272,Male,Masters,23000,672.19,15,My friends also agree that it is bad (Ref:272-685).,23000.0,44.81266666666667,9,-0.6999999999999998,2
+273,Female,Bachelors,"$31,000",42.59,3,My friends also agree that it is as it is (Ref:273-751).,31000.0,14.196666666666667,11,0.0,1
+274,Male,Bachelors,"$121,000",682.0,16,My friends also agree that it is slow (Ref:274-892).,121000.0,42.625,9,-0.30000000000000004,0
+275,Other,Bachelors,20000,152.94,4,My friends also agree that it is a normal one (Ref:275-104).,20000.0,38.235,11,0.15,1
+276,Female,Bachelors,77000,1030.91,20,My friends also agree that it is great (Ref:276-986).,77000.0,51.545500000000004,9,0.8,0
+277,Male,Bachelors,20000,859.02,19,"This is average, you get what you pay for (Ref:277-670).",20000.0,45.21157894736842,10,-0.15,2
+278,Male,Bachelors,"$52,000",50.0,1,My friends also agree that it is terrible (Ref:278-595).,52000.0,50.0,9,-1.0,1
+279,Male,High School,"$117,000",148.39,1,"This is terrible, you get what you pay for (Ref:279-920).",117000.0,148.39,10,-1.0,0
+280,Female,Bachelors,20000,347.94,10,My opinion: it is as described (Ref:280-952).,20000.0,34.794,7,0.0,1
+281,Female,Masters,32000,451.36,11,My experience with this: disappointing (Ref:281-389).,32000.0,41.03272727272727,6,-0.6,1
+282,Female,Bachelors,20000,892.03,22,"I believe the price is reasonablen, the product: lovely (Ref:282-473).",20000.0,40.54681818181818,10,0.5,2
+283,Female,Bachelors,"$20,000",396.49,17,Just the facts: it is as it is (Ref:283-910).,20000.0,23.32294117647059,9,0.0,1
+284,Male,High School,20000,723.21,22,My friends also agree that it is buggy (Ref:284-525).,20000.0,32.87318181818182,9,0.0,2
+285,Male,Bachelors,30000,923.02,22,My experience with this: as it is (Ref:285-138).,30000.0,41.95545454545454,8,0.0,2
+286,Female,Bachelors,"$20,000",775.02,20,My experience with this: buggy (Ref:286-156).,20000.0,38.751,6,0.0,2
+287,Female,Bachelors,20000,584.62,12,Just the facts: it is functional (Ref:287-433).,20000.0,48.718333333333334,7,0.0,2
+288,Female,Bachelors,"$22,000",222.78,6,"This is terrible, you get what you pay for (Ref:288-967).",22000.0,37.13,10,-1.0,1
+289,Female,Bachelors,"$95,000",440.26,12,I felt it was as it is (Ref:289-200).,95000.0,36.68833333333333,8,0.0,0
+290,Female,Masters,"$20,000",959.12,23,Just the facts: it is disappointing (Ref:290-521).,20000.0,41.70086956521739,7,-0.6,2
+291,Female,Bachelors,"$25,000",552.21,7,"This is lovely, you get what you pay for (Ref:291-883).",25000.0,78.88714285714286,10,0.5,2
+292,Female,Bachelors,59000,1076.55,24,"This is expensive, you get what you pay for (Ref:292-783).",59000.0,44.856249999999996,10,-0.5,2
+293,Female,Bachelors,"$41,000",818.83,17,"I believe the price is reasonablen, the product: functional (Ref:293-973).",41000.0,48.1664705882353,10,0.0,2
+294,Female,Masters,"$20,000",328.46,10,"I thought the price was high, and I think it is buggy (Ref:294-556).",20000.0,32.846,13,0.16,1
+295,Male,Bachelors,20000,579.97,14,"I believe the price is reasonablen, the product: lovely (Ref:295-507).",20000.0,41.42642857142857,10,0.5,2
+296,Male,Masters,"$66,000",324.68,1,"I thought the price was high, and I think it is bad (Ref:296-607).",66000.0,324.68,13,-0.2699999999999999,1
+297,Male,Bachelors,20000,448.24,20,"This is slow, you get what you pay for (Ref:297-280).",20000.0,22.412,10,-0.30000000000000004,1
+298,Male,Bachelors,"$20,000",114.9,3,"I believe the price is reasonablen, the product: frustrating (Ref:298-607).",20000.0,38.300000000000004,10,-0.4,1
+299,Other,Masters,"$20,000",440.46,7,Just the facts: it is average (Ref:299-191).,20000.0,62.92285714285714,7,-0.15,1
+300,Male,Bachelors,"$55,000",927.26,22,"I thought the price was high, and I think it is as it is (Ref:300-293).",55000.0,42.14818181818182,15,0.16,2
+301,Female,Bachelors,"$98,000",1031.76,23,I felt it was a normal one (Ref:301-910).,98000.0,44.85913043478261,8,0.15,0
+302,Female,Bachelors,99000,807.68,22,My opinion: it is amazing (Ref:302-343).,99000.0,36.71272727272727,6,0.6000000000000001,0
+303,Female,Bachelors,20000,204.74,5,My friends also agree that it is bad (Ref:303-823).,20000.0,40.948,9,-0.6999999999999998,1
+304,Female,Bachelors,20000,238.53,16,My friends also agree that it is bad (Ref:304-526).,20000.0,14.908125,9,-0.6999999999999998,1
+305,Male,Bachelors,41000,741.49,22,My friends also agree that it is bad (Ref:305-511).,41000.0,33.70409090909091,9,-0.6999999999999998,2
+306,Female,Bachelors,"$30,000",771.82,16,Just the facts: it is slow (Ref:306-995).,30000.0,48.23875,7,-0.30000000000000004,2
+307,Male,Masters,71000,433.58,10,My opinion: it is disappointing (Ref:307-586).,71000.0,43.358,6,-0.6,1
+308,Male,Bachelors,"$45,000",590.07,13,My experience with this: expensive (Ref:308-477).,45000.0,45.39,6,-0.5,2
+309,Female,Bachelors,91000,50.0,5,"I believe the price is reasonablen, the product: functional (Ref:309-161).",91000.0,10.0,10,0.0,1
+310,Male,Bachelors,20000,233.83,3,My experience with this: as it is (Ref:310-611).,20000.0,77.94333333333334,8,0.0,1
+311,Female,Bachelors,"$45,000",319.61,12,"I believe the price is reasonablen, the product: functional (Ref:311-803).",45000.0,26.63416666666667,10,0.0,1
+312,Female,Bachelors,68000,809.38,17,"I thought the price was high, and I think it is wonderful (Ref:312-277).",68000.0,47.61058823529412,13,0.58,2
+313,Male,Bachelors,"$56,000",352.02,8,"I thought the price was high, and I think it is as it is (Ref:313-217).",56000.0,44.0025,15,0.16,1
+314,Male,Bachelors,"$20,000",455.34,16,Just the facts: it is frustrating (Ref:314-390).,20000.0,28.45875,7,-0.4,1
+315,Male,Bachelors,"$74,000",750.17,19,My friends also agree that it is disappointing (Ref:315-822).,74000.0,39.48263157894737,9,-0.6,0
+316,Female,Bachelors,129000,957.4,17,"I believe the price is reasonablen, the product: expensive (Ref:316-662).",129000.0,56.317647058823525,10,-0.5,0
+317,Female,Bachelors,92000,793.18,14,"I thought the price was high, and I think it is bad (Ref:317-679).",92000.0,56.65571428571428,13,-0.2699999999999999,0
+318,Male,Bachelors,"$20,000",368.92,10,"This is as it is, you get what you pay for (Ref:318-903).",20000.0,36.892,12,0.0,1
+319,Male,Masters,"$151,000",1275.56,24,"I believe the price is reasonablen, the product: terrible (Ref:319-544).",151000.0,53.14833333333333,10,-1.0,0
+320,Female,Bachelors,23000,190.01,5,My opinion: it is disappointing (Ref:320-376).,23000.0,38.001999999999995,6,-0.6,1
+321,Male,Masters,20000,307.56,9,"I thought the price was high, and I think it is frustrating (Ref:321-694).",20000.0,34.17333333333333,13,-0.12000000000000001,1
+322,Female,Bachelors,66000,563.05,15,"This is as it is, you get what you pay for (Ref:322-269).",66000.0,37.53666666666666,12,0.0,2
+323,Male,Masters,"$205,000",1057.85,24,I felt it was disappointing (Ref:323-900).,205000.0,44.07708333333333,6,-0.6,0
+324,Male,Bachelors,86000,395.32,16,"This is expensive, you get what you pay for (Ref:324-292).",86000.0,24.7075,10,-0.5,0
+325,Female,Bachelors,100000,188.75,9,I felt it was as described (Ref:325-436).,100000.0,20.97222222222222,7,0.0,1
+326,Female,High School,"$20,000",176.55,6,My experience with this: buggy (Ref:326-762).,20000.0,29.425,6,0.0,1
+327,Male,Bachelors,"$20,000",146.55,10,My friends also agree that it is as described (Ref:327-458).,20000.0,14.655000000000001,10,0.0,1
+328,Female,Bachelors,"$20,000",218.57,8,"I believe the price is reasonablen, the product: a normal one (Ref:328-748).",20000.0,27.32125,12,0.15,1
+329,Female,Bachelors,46000,714.15,18,"I thought the price was high, and I think it is functional (Ref:329-197).",46000.0,39.675,13,0.16,2
+330,Female,High School,146000,214.9,6,My opinion: it is expensive (Ref:330-946).,146000.0,35.81666666666667,6,-0.5,0
+331,Male,Bachelors,20000,50.0,2,"This is bad, you get what you pay for (Ref:331-418).",20000.0,25.0,10,-0.6999999999999998,1
+332,Female,Bachelors,"$95,000",549.81,11,I felt it was as described (Ref:332-105).,95000.0,49.98272727272727,7,0.0,0
+333,Male,Bachelors,"$84,000",583.95,20,I felt it was buggy (Ref:333-613).,84000.0,29.1975,6,0.0,0
+334,Female,Bachelors,53000,609.43,14,My friends also agree that it is excellent (Ref:334-157).,53000.0,43.53071428571428,9,1.0,2
+335,Female,Bachelors,44000,180.13,6,"I thought the price was high, and I think it is disappointing (Ref:335-289).",44000.0,30.021666666666665,13,-0.21999999999999997,1
+336,Male,Bachelors,20000,320.24,9,My friends also agree that it is functional (Ref:336-860).,20000.0,35.58222222222222,9,0.0,1
+337,Male,Bachelors,29000,724.38,16,My opinion: it is expensive (Ref:337-333).,29000.0,45.27375,6,-0.5,2
+338,Female,Bachelors,"$61,000",419.83,13,"This is as it is, you get what you pay for (Ref:338-654).",61000.0,32.29461538461538,12,0.0,1
+339,Female,Bachelors,"$45,000",362.07,11,My opinion: it is terrible (Ref:339-624).,45000.0,32.915454545454544,6,-1.0,1
+340,Female,Bachelors,"$20,000",342.15,2,I felt it was terrible (Ref:340-631).,20000.0,171.075,6,-1.0,1
+341,Female,Bachelors,"$132,000",52.99,1,Just the facts: it is as it is (Ref:341-695).,132000.0,52.99,9,0.0,0
+342,Female,Bachelors,20000,258.0,1,My experience with this: bad (Ref:342-338).,20000.0,258.0,6,-0.6999999999999998,1
+343,Female,Bachelors,26000,575.79,18,I felt it was frustrating (Ref:343-690).,26000.0,31.98833333333333,6,-0.4,2
+344,Female,Bachelors,20000,207.43,6,"This is disappointing, you get what you pay for (Ref:344-166).",20000.0,34.571666666666665,10,-0.6,1
+345,Male,Bachelors,20000,308.16,9,Just the facts: it is bad (Ref:345-314).,20000.0,34.24,7,-0.6999999999999998,1
+346,Female,Bachelors,45000,328.68,6,My friends also agree that it is average (Ref:346-910).,45000.0,54.78,9,-0.15,1
+347,Female,Bachelors,"$69,000",776.87,19,I felt it was bad (Ref:347-671).,69000.0,40.88789473684211,6,-0.6999999999999998,2
+348,Female,Bachelors,106000,644.05,16,I felt it was the best (Ref:348-972).,106000.0,40.253125,7,1.0,0
+349,Female,Bachelors,20000,630.01,19,"I thought the price was high, and I think it is expensive (Ref:349-340).",20000.0,33.15842105263158,13,-0.16999999999999998,2
+350,Male,Masters,"$59,000",293.47,6,Just the facts: it is disappointing (Ref:350-515).,59000.0,48.91166666666667,7,-0.6,1
+351,Female,High School,"$20,000",473.41,5,My friends also agree that it is average (Ref:351-796).,20000.0,94.682,9,-0.15,1
+352,Female,Masters,20000,251.03,4,Just the facts: it is as described (Ref:352-557).,20000.0,62.7575,8,0.0,1
+353,Male,Bachelors,"$20,000",139.46,3,"I thought the price was high, and I think it is functional (Ref:353-839).",20000.0,46.48666666666667,13,0.16,1
+354,Male,High School,"$22,000",379.15,12,"This is functional, you get what you pay for (Ref:354-327).",22000.0,31.59583333333333,10,0.0,1
+355,Female,Bachelors,20000,558.43,11,"I believe the price is reasonablen, the product: lovely (Ref:355-696).",20000.0,50.76636363636363,10,0.5,2
+356,Male,Bachelors,68000,189.04,6,My friends also agree that it is slow (Ref:356-933).,68000.0,31.506666666666664,9,-0.30000000000000004,1
+357,Female,Masters,"$20,000",1057.7,24,My experience with this: as it is (Ref:357-995).,20000.0,44.07083333333333,8,0.0,2
+358,Male,High School,"$20,000",135.95,2,My friends also agree that it is disappointing (Ref:358-155).,20000.0,67.975,9,-0.6,1
+359,Female,Bachelors,96000,613.18,18,My opinion: it is as it is (Ref:359-816).,96000.0,34.065555555555555,8,0.0,0
+360,Other,Masters,63000,470.45,13,My experience with this: bad (Ref:360-927).,63000.0,36.18846153846154,6,-0.6999999999999998,2
+361,Male,Bachelors,"$62,000",338.6,10,I felt it was slow (Ref:361-639).,62000.0,33.86,6,-0.30000000000000004,1
+362,Male,Bachelors,"$20,000",874.14,19,"This is slow, you get what you pay for (Ref:362-591).",20000.0,46.00736842105263,10,-0.30000000000000004,2
+363,Female,High School,121000,955.12,17,Just the facts: it is great (Ref:363-719).,121000.0,56.18352941176471,7,0.8,0
+364,Female,Bachelors,"$36,000",768.02,23,"I thought the price was high, and I think it is lovely (Ref:364-419).",36000.0,33.39217391304348,13,0.33,2
+365,Other,Bachelors,"$20,000",50.0,5,"I thought the price was high, and I think it is slow (Ref:365-764).",20000.0,10.0,13,-0.07000000000000002,1
+366,Female,Masters,133000,1037.02,19,Just the facts: it is a normal one (Ref:366-217).,133000.0,54.58,9,0.15,0
+367,Other,Bachelors,20000,459.9,15,Just the facts: it is frustrating (Ref:367-773).,20000.0,30.66,7,-0.4,1
+368,Female,Masters,"$28,000",237.73,7,I felt it was average (Ref:368-594).,28000.0,33.96142857142857,6,-0.15,1
+369,Female,Masters,20000,205.87,11,"This is slow, you get what you pay for (Ref:369-367).",20000.0,18.715454545454545,10,-0.30000000000000004,1
+370,Male,Bachelors,"$56,000",909.68,22,"I thought the price was high, and I think it is lovely (Ref:370-988).",56000.0,41.349090909090904,13,0.33,2
+371,Male,Bachelors,"$20,000",437.75,8,I felt it was as it is (Ref:371-810).,20000.0,54.71875,8,0.0,1
+372,Male,Bachelors,"$170,000",1131.57,24,My friends also agree that it is great (Ref:372-178).,170000.0,47.14875,9,0.8,0
+373,Male,High School,"$20,000",50.0,1,I felt it was a normal one (Ref:373-257).,20000.0,50.0,8,0.15,1
+374,Female,High School,"$97,000",386.86,7,Just the facts: it is functional (Ref:374-376).,97000.0,55.26571428571429,7,0.0,0
+375,Male,High School,"$34,000",876.55,22,"This is wonderful, you get what you pay for (Ref:375-974).",34000.0,39.84318181818182,10,1.0,2
+376,Male,Bachelors,107000,205.14,7,My experience with this: terrible (Ref:376-424).,107000.0,29.305714285714284,6,-1.0,0
+377,Female,High School,29000,497.94,10,My friends also agree that it is as it is (Ref:377-134).,29000.0,49.794,11,0.0,2
+378,Female,Masters,20000,649.92,24,"I thought the price was high, and I think it is disappointing (Ref:378-252).",20000.0,27.08,13,-0.21999999999999997,2
+379,Female,Bachelors,"$20,000",805.75,16,"I believe the price is reasonablen, the product: the best (Ref:379-479).",20000.0,50.359375,11,1.0,2
+380,Male,Bachelors,"$22,000",129.04,1,"I believe the price is reasonablen, the product: as described (Ref:380-732).",22000.0,129.04,11,0.0,1
+381,Male,Bachelors,30000,750.61,18,"This is the best, you get what you pay for (Ref:381-725).",30000.0,41.70055555555555,11,1.0,2
+382,Female,Bachelors,114000,1135.46,24,My opinion: it is amazing (Ref:382-635).,114000.0,47.310833333333335,6,0.6000000000000001,0
+383,Other,Bachelors,"$20,000",91.04,7,"I believe the price is reasonablen, the product: as described (Ref:383-865).",20000.0,13.005714285714287,11,0.0,1
+384,Male,Bachelors,"$20,000",100.0,1,I felt it was a normal one (Ref:384-329).,20000.0,100.0,8,0.15,1
+385,Male,Masters,"$20,000",316.77,10,My experience with this: bad (Ref:385-790).,20000.0,31.677,6,-0.6999999999999998,1
+386,Male,High School,20000,534.15,15,"This is amazing, you get what you pay for (Ref:386-692).",20000.0,35.61,10,0.6000000000000001,2
+387,Female,Bachelors,64000,670.06,20,I felt it was excellent (Ref:387-859).,64000.0,33.503,6,1.0,2
+388,Female,Bachelors,"$20,000",559.08,15,Just the facts: it is disappointing (Ref:388-563).,20000.0,37.272000000000006,7,-0.6,2
+389,Male,High School,93000,738.37,10,Just the facts: it is frustrating (Ref:389-123).,93000.0,73.837,7,-0.4,0
+390,Female,Masters,24000,347.55,8,My experience with this: buggy (Ref:390-800).,24000.0,43.44375,6,0.0,1
+391,Male,Masters,"$20,000",548.63,15,My friends also agree that it is average (Ref:391-558).,20000.0,36.57533333333333,9,-0.15,2
+392,Female,Bachelors,"$40,000",315.43,11,"I thought the price was high, and I think it is frustrating (Ref:392-785).",40000.0,28.675454545454546,13,-0.12000000000000001,1
+393,Male,Masters,20000,246.95,6,My friends also agree that it is expensive (Ref:393-463).,20000.0,41.15833333333333,9,-0.5,1
+394,Male,Bachelors,"$134,000",524.08,16,"I believe the price is reasonablen, the product: disappointing (Ref:394-377).",134000.0,32.755,10,-0.6,0
+395,Female,Bachelors,135000,340.02,4,"I believe the price is reasonablen, the product: as described (Ref:395-622).",135000.0,85.005,11,0.0,0
+396,Female,Bachelors,"$67,000",834.3,15,Just the facts: it is as described (Ref:396-430).,67000.0,55.62,8,0.0,2
+397,Male,Bachelors,20000,434.11,13,"This is expensive, you get what you pay for (Ref:397-406).",20000.0,33.393076923076926,10,-0.5,1
+398,Female,Bachelors,"$20,000",901.95,20,Just the facts: it is fantastic (Ref:398-175).,20000.0,45.097500000000004,7,0.4,2
+399,Female,Bachelors,165000,573.17,20,Just the facts: it is as described (Ref:399-741).,165000.0,28.658499999999997,8,0.0,0
+400,Female,Masters,26000,575.96,11,My experience with this: bad (Ref:400-167).,26000.0,52.36000000000001,6,-0.6999999999999998,2
+401,Other,Bachelors,49000,600.57,16,"I thought the price was high, and I think it is buggy (Ref:401-776).",49000.0,37.535625,13,0.16,2
+402,Female,Bachelors,20000,436.74,13,"I believe the price is reasonablen, the product: buggy (Ref:402-421).",20000.0,33.59538461538462,10,0.0,1
+403,Male,Masters,"$31,000",43.51,3,"I believe the price is reasonablen, the product: as described (Ref:403-204).",31000.0,14.503333333333332,11,0.0,1
+404,Female,Bachelors,"$20,000",963.6,23,My friends also agree that it is fantastic (Ref:404-537).,20000.0,41.89565217391304,9,0.4,2
+405,Female,Bachelors,106000,708.74,20,"This is slow, you get what you pay for (Ref:405-579).",106000.0,35.437,10,-0.30000000000000004,0
+406,Female,Bachelors,"$33,000",696.7,13,"I thought the price was high, and I think it is a normal one (Ref:406-448).",33000.0,53.5923076923077,15,0.155,2
+407,Male,Masters,"$121,000",918.55,23,My experience with this: disappointing (Ref:407-692).,121000.0,39.93695652173913,6,-0.6,0
+408,Male,Bachelors,84000,692.43,14,"I believe the price is reasonablen, the product: fantastic (Ref:408-152).",84000.0,49.45928571428571,10,0.4,0
+409,Male,High School,36000,672.12,18,Just the facts: it is terrible (Ref:409-565).,36000.0,37.34,7,-1.0,2
+410,Male,Bachelors,"$56,000",943.85,22,"I thought the price was high, and I think it is fantastic (Ref:410-354).",56000.0,42.90227272727273,13,0.28,2
+411,Male,Bachelors,"$25,000",749.96,24,My experience with this: slow (Ref:411-724).,25000.0,31.248333333333335,6,-0.30000000000000004,2
+412,Female,Bachelors,"$35,000",390.52,15,"I thought the price was high, and I think it is expensive (Ref:412-513).",35000.0,26.034666666666666,13,-0.16999999999999998,1
+413,Female,Masters,20000,437.37,12,My opinion: it is frustrating (Ref:413-566).,20000.0,36.4475,6,-0.4,1
+414,Female,Bachelors,"$25,000",18.37,3,"I believe the price is reasonablen, the product: terrible (Ref:414-443).",25000.0,6.123333333333334,10,-1.0,1
+415,Female,Bachelors,"$20,000",294.91,9,"I thought the price was high, and I think it is functional (Ref:415-279).",20000.0,32.76777777777778,13,0.16,1
+416,Male,Masters,"$20,000",550.71,6,"I believe the price is reasonablen, the product: as it is (Ref:416-999).",20000.0,91.78500000000001,12,0.0,2
+417,Female,Bachelors,"$20,000",50.0,1,Just the facts: it is average (Ref:417-521).,20000.0,50.0,7,-0.15,1
+418,Male,Bachelors,141000,1008.62,23,"This is as described, you get what you pay for (Ref:418-212).",141000.0,43.85304347826087,11,0.0,0
+419,Female,High School,"$90,000",234.95,11,"This is as it is, you get what you pay for (Ref:419-238).",90000.0,21.35909090909091,12,0.0,1
+420,Female,High School,"$20,000",50.0,3,My friends also agree that it is as it is (Ref:420-441).,20000.0,16.666666666666668,11,0.0,1
+421,Male,High School,48000,639.55,21,Just the facts: it is as described (Ref:421-999).,48000.0,30.454761904761902,8,0.0,2
+422,Male,Bachelors,"$36,000",433.26,10,Just the facts: it is frustrating (Ref:422-569).,36000.0,43.326,7,-0.4,1
+423,Male,High School,"$24,000",509.34,8,My friends also agree that it is the best (Ref:423-733).,24000.0,63.6675,10,1.0,2
+424,Male,Bachelors,"$42,000",50.0,6,"I thought the price was high, and I think it is bad (Ref:424-435).",42000.0,8.333333333333334,13,-0.2699999999999999,1
+425,Female,Bachelors,"$69,000",885.91,22,My experience with this: the best (Ref:425-333).,69000.0,40.26863636363636,7,1.0,2
+426,Male,Bachelors,45000,16.18,4,My experience with this: slow (Ref:426-553).,45000.0,4.045,6,-0.30000000000000004,1
+427,Male,Bachelors,32000,807.49,22,My friends also agree that it is disappointing (Ref:427-518).,32000.0,36.70409090909091,9,-0.6,2
+428,Female,Bachelors,20000,287.08,10,My experience with this: buggy (Ref:428-831).,20000.0,28.708,6,0.0,1
+429,Male,Bachelors,121000,964.9,23,I felt it was as described (Ref:429-192).,121000.0,41.952173913043474,7,0.0,0
+430,Female,Bachelors,20000,210.53,2,"I thought the price was high, and I think it is bad (Ref:430-204).",20000.0,105.265,13,-0.2699999999999999,1
+431,Female,Bachelors,154000,294.5,7,Just the facts: it is buggy (Ref:431-573).,154000.0,42.07142857142857,7,0.0,0
+432,Female,Masters,"$121,000",587.42,13,My friends also agree that it is lovely (Ref:432-167).,121000.0,45.18615384615384,9,0.5,0
+433,Female,Masters,"$36,000",636.53,16,Just the facts: it is wonderful (Ref:433-742).,36000.0,39.783125,7,1.0,2
+434,Female,Masters,20000,139.85,4,My experience with this: expensive (Ref:434-464).,20000.0,34.9625,6,-0.5,1
+435,Female,Masters,"$33,000",437.77,1,My friends also agree that it is disappointing (Ref:435-569).,33000.0,437.77,9,-0.6,1
+436,Male,Bachelors,"$20,000",143.14,6,My opinion: it is slow (Ref:436-894).,20000.0,23.856666666666666,6,-0.30000000000000004,1
+437,Female,Bachelors,76000,571.6,13,"This is frustrating, you get what you pay for (Ref:437-195).",76000.0,43.96923076923077,10,-0.4,0
+438,Male,Bachelors,20000,408.61,16,"I thought the price was high, and I think it is bad (Ref:438-480).",20000.0,25.538125,13,-0.2699999999999999,1
+439,Female,Bachelors,"$20,000",463.41,11,I felt it was terrible (Ref:439-371).,20000.0,42.12818181818182,6,-1.0,1
+440,Male,Bachelors,"$105,000",306.28,17,Just the facts: it is slow (Ref:440-178).,105000.0,18.016470588235293,7,-0.30000000000000004,0
+441,Female,Bachelors,"$88,000",893.93,24,My friends also agree that it is wonderful (Ref:441-898).,88000.0,37.24708333333333,9,1.0,0
+442,Male,Bachelors,"$20,000",261.47,8,My opinion: it is expensive (Ref:442-183).,20000.0,32.68375,6,-0.5,1
+443,Female,Masters,20000,523.26,16,Just the facts: it is wonderful (Ref:443-812).,20000.0,32.70375,7,1.0,2
+444,Male,Bachelors,65000,654.75,12,Just the facts: it is as it is (Ref:444-956).,65000.0,54.5625,9,0.0,2
+445,Other,Bachelors,20000,332.96,5,"I believe the price is reasonablen, the product: terrible (Ref:445-146).",20000.0,66.592,10,-1.0,1
+446,Female,Masters,"$72,000",812.91,13,My experience with this: functional (Ref:446-976).,72000.0,62.53153846153846,6,0.0,2
+447,Female,Bachelors,"$20,000",109.93,8,"This is terrible, you get what you pay for (Ref:447-339).",20000.0,13.74125,10,-1.0,1
+448,Female,Bachelors,23000,639.53,17,My experience with this: buggy (Ref:448-483).,23000.0,37.61941176470588,6,0.0,2
+449,Male,Bachelors,75000,452.09,6,"I believe the price is reasonablen, the product: slow (Ref:449-337).",75000.0,75.34833333333333,10,-0.30000000000000004,0
+450,Male,Bachelors,126000,924.89,18,I felt it was excellent (Ref:450-435).,126000.0,51.382777777777775,6,1.0,0
+451,Male,Bachelors,"$20,000",807.48,18,Just the facts: it is a normal one (Ref:451-921).,20000.0,44.86,9,0.15,2
+452,Female,High School,"$80,000",761.31,18,My experience with this: slow (Ref:452-998).,80000.0,42.294999999999995,6,-0.30000000000000004,0
+453,Female,Bachelors,"$94,000",684.32,15,My opinion: it is slow (Ref:453-771).,94000.0,45.62133333333334,6,-0.30000000000000004,0
+454,Other,Bachelors,"$46,000",550.19,9,Just the facts: it is the best (Ref:454-364).,46000.0,61.132222222222225,8,1.0,2
+455,Female,Bachelors,"$52,000",280.67,12,I felt it was terrible (Ref:455-505).,52000.0,23.389166666666668,6,-1.0,1
+456,Female,Bachelors,"$20,000",110.07,1,"I believe the price is reasonablen, the product: disappointing (Ref:456-470).",20000.0,110.07,10,-0.6,1
+457,Female,Masters,"$83,000",802.07,16,My opinion: it is terrible (Ref:457-427).,83000.0,50.129375,6,-1.0,0
+458,Male,Bachelors,124000,1038.0,24,My friends also agree that it is fantastic (Ref:458-954).,124000.0,43.25,9,0.4,0
+459,Male,Bachelors,20000,476.42,18,My friends also agree that it is functional (Ref:459-103).,20000.0,26.46777777777778,9,0.0,1
+460,Male,High School,32000,581.97,13,"I believe the price is reasonablen, the product: terrible (Ref:460-566).",32000.0,44.76692307692308,10,-1.0,2
+461,Male,Bachelors,"$20,000",921.9,18,My opinion: it is slow (Ref:461-373).,20000.0,51.21666666666667,6,-0.30000000000000004,2
+462,Female,Masters,68000,816.36,20,I felt it was slow (Ref:462-713).,68000.0,40.818,6,-0.30000000000000004,2
+463,Male,Bachelors,20000,187.35,4,My experience with this: expensive (Ref:463-206).,20000.0,46.8375,6,-0.5,1
+464,Male,High School,"$150,000",1062.88,17,My friends also agree that it is terrible (Ref:464-718).,150000.0,62.52235294117648,9,-1.0,0
+465,Female,Bachelors,63000,438.32,9,My opinion: it is disappointing (Ref:465-793).,63000.0,48.70222222222222,6,-0.6,1
+466,Male,Bachelors,20000,365.94,17,Just the facts: it is slow (Ref:466-886).,20000.0,21.525882352941178,7,-0.30000000000000004,1
+467,Other,High School,"$45,000",219.39,7,My experience with this: buggy (Ref:467-350).,45000.0,31.34142857142857,6,0.0,1
+468,Male,High School,20000,887.83,22,"This is slow, you get what you pay for (Ref:468-654).",20000.0,40.355909090909094,10,-0.30000000000000004,2
+469,Female,Bachelors,20000,79.16,3,My experience with this: disappointing (Ref:469-833).,20000.0,26.386666666666667,6,-0.6,1
+470,Male,High School,"$20,000",675.63,16,Just the facts: it is average (Ref:470-377).,20000.0,42.226875,7,-0.15,2
+471,Female,Bachelors,"$107,000",554.12,14,I felt it was wonderful (Ref:471-703).,107000.0,39.58,6,1.0,0
+472,Male,Bachelors,"$33,000",366.74,11,"I thought the price was high, and I think it is terrible (Ref:472-515).",33000.0,33.34,13,-0.42,1
+473,Male,Bachelors,"$20,000",226.13,4,My opinion: it is expensive (Ref:473-669).,20000.0,56.5325,6,-0.5,1
+474,Female,Bachelors,53000,506.42,11,My opinion: it is disappointing (Ref:474-744).,53000.0,46.03818181818182,6,-0.6,2
+475,Female,Bachelors,20000,427.95,20,Just the facts: it is as described (Ref:475-415).,20000.0,21.3975,8,0.0,1
+476,Male,Bachelors,"$20,000",314.87,12,"I thought the price was high, and I think it is frustrating (Ref:476-871).",20000.0,26.239166666666666,13,-0.12000000000000001,1
+477,Female,Masters,120000,1063.41,21,My experience with this: the best (Ref:477-587).,120000.0,50.63857142857143,7,1.0,0
+478,Female,Bachelors,"$33,000",611.16,22,My opinion: it is slow (Ref:478-423).,33000.0,27.779999999999998,6,-0.30000000000000004,2
+479,Male,Bachelors,62000,1091.05,24,"I thought the price was high, and I think it is slow (Ref:479-544).",62000.0,45.46041666666667,13,-0.07000000000000002,2
+480,Female,Bachelors,20000,545.55,11,Just the facts: it is slow (Ref:480-950).,20000.0,49.595454545454544,7,-0.30000000000000004,2
+481,Male,Bachelors,"$49,000",237.58,3,I felt it was slow (Ref:481-234).,49000.0,79.19333333333334,6,-0.30000000000000004,1
+482,Female,Bachelors,28000,851.39,14,"This is as it is, you get what you pay for (Ref:482-631).",28000.0,60.81357142857143,12,0.0,2
+483,Female,Bachelors,"$45,000",581.95,21,My opinion: it is disappointing (Ref:483-936).,45000.0,27.711904761904766,6,-0.6,2
+484,Female,Masters,77000,594.47,18,My experience with this: lovely (Ref:484-184).,77000.0,33.02611111111111,6,0.5,0
+485,Female,Bachelors,"$20,000",49.79,5,I felt it was terrible (Ref:485-687).,20000.0,9.958,6,-1.0,1
+486,Female,Bachelors,103000,482.47,16,Just the facts: it is disappointing (Ref:486-537).,103000.0,30.154375,7,-0.6,0
+487,Male,Bachelors,"$61,000",404.58,6,My experience with this: a normal one (Ref:487-432).,61000.0,67.42999999999999,8,0.15,1
+488,Male,Bachelors,"$53,000",234.61,3,"This is buggy, you get what you pay for (Ref:488-441).",53000.0,78.20333333333333,10,0.0,1
+489,Female,Bachelors,20000,313.69,13,Just the facts: it is a normal one (Ref:489-100).,20000.0,24.13,9,0.15,1
+490,Male,Bachelors,24000,112.67,1,Just the facts: it is a normal one (Ref:490-269).,24000.0,112.67,9,0.15,1
+491,Female,Bachelors,63000,730.38,16,"I thought the price was high, and I think it is fantastic (Ref:491-845).",63000.0,45.64875,13,0.28,2
+492,Female,Bachelors,55000,656.04,19,My friends also agree that it is excellent (Ref:492-671).,55000.0,34.52842105263158,9,1.0,2
+493,Male,Bachelors,66000,516.13,10,My experience with this: as described (Ref:493-744).,66000.0,51.613,7,0.0,2
+494,Male,Bachelors,"$46,000",260.24,9,I felt it was as described (Ref:494-820).,46000.0,28.915555555555557,7,0.0,1
+495,Male,Bachelors,42000,576.52,18,I felt it was as it is (Ref:495-490).,42000.0,32.028888888888886,8,0.0,2
+496,Female,Bachelors,61000,643.79,13,Just the facts: it is excellent (Ref:496-156).,61000.0,49.52230769230769,7,1.0,2
+497,Female,Bachelors,20000,718.7,10,"I thought the price was high, and I think it is lovely (Ref:497-368).",20000.0,71.87,13,0.33,2
+498,Female,Bachelors,"$80,000",1084.41,22,My experience with this: lovely (Ref:498-120).,80000.0,49.29136363636364,6,0.5,0
+499,Female,Bachelors,20000,236.51,7,Just the facts: it is average (Ref:499-654).,20000.0,33.787142857142854,7,-0.15,1
+500,Male,Bachelors,"$136,000",1185.02,23,My opinion: it is lovely (Ref:500-928).,136000.0,51.522608695652174,6,0.5,0
+501,Male,Bachelors,"$71,000",50.0,3,My friends also agree that it is as it is (Ref:501-437).,71000.0,16.666666666666668,11,0.0,1
+502,Male,Bachelors,20000,50.0,3,"This is a normal one, you get what you pay for (Ref:502-307).",20000.0,16.666666666666668,12,0.15,1
+503,Male,Bachelors,"$81,000",874.9,23,My experience with this: as it is (Ref:503-558).,81000.0,38.03913043478261,8,0.0,0
+504,Male,Bachelors,"$78,000",651.03,17,My experience with this: the best (Ref:504-458).,78000.0,38.29588235294118,7,1.0,0
+505,Female,High School,20000,323.96,3,"I believe the price is reasonablen, the product: a normal one (Ref:505-817).",20000.0,107.98666666666666,12,0.15,1
+506,Male,Bachelors,85000,1135.47,24,My experience with this: wonderful (Ref:506-648).,85000.0,47.31125,6,1.0,0
+507,Female,Bachelors,21000,446.74,15,"This is terrible, you get what you pay for (Ref:507-787).",21000.0,29.782666666666668,10,-1.0,1
+508,Male,Masters,20000,294.93,8,"This is buggy, you get what you pay for (Ref:508-919).",20000.0,36.86625,10,0.0,1
+509,Female,Bachelors,76000,619.78,14,"I believe the price is reasonablen, the product: as described (Ref:509-502).",76000.0,44.269999999999996,11,0.0,0
+510,Male,Bachelors,"$64,000",603.32,15,I felt it was bad (Ref:510-651).,64000.0,40.221333333333334,6,-0.6999999999999998,2
+511,Female,Bachelors,"$20,000",50.0,5,"This is disappointing, you get what you pay for (Ref:511-146).",20000.0,10.0,10,-0.6,1
+512,Male,Bachelors,"$20,000",437.96,11,I felt it was disappointing (Ref:512-459).,20000.0,39.81454545454545,6,-0.6,1
+513,Male,Bachelors,20000,454.51,8,Just the facts: it is frustrating (Ref:513-695).,20000.0,56.81375,7,-0.4,1
+514,Male,Bachelors,95000,465.49,14,My experience with this: functional (Ref:514-302).,95000.0,33.24928571428571,6,0.0,0
+515,Female,Masters,"$104,000",1082.89,22,"I believe the price is reasonablen, the product: as it is (Ref:515-473).",104000.0,49.22227272727273,12,0.0,0
+516,Female,Bachelors,"$92,000",780.09,19,"This is as described, you get what you pay for (Ref:516-880).",92000.0,41.05736842105264,11,0.0,0
+517,Female,High School,37000,702.21,21,My experience with this: lovely (Ref:517-938).,37000.0,33.43857142857143,6,0.5,2
+518,Male,Bachelors,"$20,000",525.66,21,"This is expensive, you get what you pay for (Ref:518-477).",20000.0,25.03142857142857,10,-0.5,2
+519,Female,Bachelors,20000,100.72,4,Just the facts: it is terrible (Ref:519-777).,20000.0,25.18,7,-1.0,1
+520,Other,Masters,"$52,000",597.03,14,My friends also agree that it is functional (Ref:520-249).,52000.0,42.644999999999996,9,0.0,2
+521,Female,Bachelors,26000,535.51,10,Just the facts: it is great (Ref:521-958).,26000.0,53.551,7,0.8,2
+522,Female,Bachelors,"$102,000",463.33,19,My friends also agree that it is terrible (Ref:522-515).,102000.0,24.38578947368421,9,-1.0,0
+523,Other,Masters,88000,493.18,10,My opinion: it is frustrating (Ref:523-675).,88000.0,49.318,6,-0.4,0
+524,Female,Bachelors,"$43,000",568.35,16,Just the facts: it is amazing (Ref:524-446).,43000.0,35.521875,7,0.6000000000000001,2
+525,Female,Bachelors,"$20,000",50.0,1,My friends also agree that it is expensive (Ref:525-504).,20000.0,50.0,9,-0.5,1
+526,Male,Bachelors,20000,328.53,8,My friends also agree that it is average (Ref:526-463).,20000.0,41.06625,9,-0.15,1
+527,Male,Bachelors,"$135,000",1065.25,22,"I thought the price was high, and I think it is slow (Ref:527-924).",135000.0,48.42045454545455,13,-0.07000000000000002,0
+528,Male,High School,68000,904.47,22,"I believe the price is reasonablen, the product: the best (Ref:528-540).",68000.0,41.11227272727273,11,1.0,2
+529,Female,Bachelors,"$46,000",602.92,14,My opinion: it is disappointing (Ref:529-208).,46000.0,43.065714285714286,6,-0.6,2
+530,Male,High School,20000,579.34,13,"I thought the price was high, and I think it is lovely (Ref:530-352).",20000.0,44.56461538461539,13,0.33,2
+531,Other,Bachelors,144000,1091.57,20,I felt it was functional (Ref:531-928).,144000.0,54.5785,6,0.0,0
+532,Male,Bachelors,20000,380.19,5,"This is functional, you get what you pay for (Ref:532-323).",20000.0,76.038,10,0.0,1
+533,Other,Bachelors,20000,216.18,4,"I believe the price is reasonablen, the product: as it is (Ref:533-732).",20000.0,54.045,12,0.0,1
+534,Female,Masters,"$71,000",438.31,7,"I believe the price is reasonablen, the product: disappointing (Ref:534-377).",71000.0,62.61571428571428,10,-0.6,1
+535,Female,Bachelors,"$48,000",257.72,4,My opinion: it is slow (Ref:535-982).,48000.0,64.43,6,-0.30000000000000004,1
+536,Female,Bachelors,20000,450.22,15,"I thought the price was high, and I think it is as it is (Ref:536-305).",20000.0,30.014666666666667,15,0.16,1
+537,Female,Bachelors,20000,704.51,24,Just the facts: it is amazing (Ref:537-816).,20000.0,29.354583333333334,7,0.6000000000000001,2
+538,Female,Bachelors,"$23,000",154.55,3,"I believe the price is reasonablen, the product: frustrating (Ref:538-523).",23000.0,51.51666666666667,10,-0.4,1
+539,Male,High School,32000,876.76,19,"This is fantastic, you get what you pay for (Ref:539-761).",32000.0,46.14526315789474,10,0.4,2
+540,Male,Masters,147000,1013.57,24,"I believe the price is reasonablen, the product: the best (Ref:540-495).",147000.0,42.232083333333335,11,1.0,0
+541,Female,High School,"$98,000",250.94,10,I felt it was buggy (Ref:541-908).,98000.0,25.094,6,0.0,0
+542,Female,Bachelors,86000,699.45,21,"I believe the price is reasonablen, the product: functional (Ref:542-181).",86000.0,33.30714285714286,10,0.0,0
+543,Female,Bachelors,"$102,000",510.06,13,My friends also agree that it is lovely (Ref:543-450).,102000.0,39.23538461538462,9,0.5,0
+544,Female,High School,"$20,000",349.36,9,My experience with this: disappointing (Ref:544-310).,20000.0,38.81777777777778,6,-0.6,1
+545,Male,Bachelors,"$20,000",1158.23,24,I felt it was wonderful (Ref:545-176).,20000.0,48.25958333333333,6,1.0,2
+546,Male,Bachelors,"$20,000",605.49,16,"This is terrible, you get what you pay for (Ref:546-566).",20000.0,37.843125,10,-1.0,2
+547,Female,Masters,"$135,000",1025.18,19,My experience with this: excellent (Ref:547-232).,135000.0,53.95684210526316,6,1.0,0
+548,Male,Bachelors,20000,328.33,10,My experience with this: bad (Ref:548-761).,20000.0,32.833,6,-0.6999999999999998,1
+549,Other,High School,38000,542.97,16,"I thought the price was high, and I think it is great (Ref:549-811).",38000.0,33.935625,13,0.48000000000000004,2
+550,Male,Masters,44000,37.49,1,Just the facts: it is expensive (Ref:550-741).,44000.0,37.49,7,-0.5,1
+551,Male,Masters,"$20,000",738.47,19,"I believe the price is reasonablen, the product: a normal one (Ref:551-689).",20000.0,38.86684210526316,12,0.15,2
+552,Female,Masters,"$20,000",284.44,8,Just the facts: it is terrible (Ref:552-706).,20000.0,35.555,7,-1.0,1
+553,Female,Bachelors,"$20,000",537.62,10,My friends also agree that it is frustrating (Ref:553-758).,20000.0,53.762,9,-0.4,2
+554,Female,Masters,20000,50.0,1,I felt it was functional (Ref:554-192).,20000.0,50.0,6,0.0,1
+555,Male,Masters,149000,669.59,18,"I thought the price was high, and I think it is wonderful (Ref:555-422).",149000.0,37.199444444444445,13,0.58,0
+556,Male,Bachelors,51000,657.81,16,"I thought the price was high, and I think it is the best (Ref:556-806).",51000.0,41.113125,14,0.58,2
+557,Female,Bachelors,20000,1107.09,23,"This is terrible, you get what you pay for (Ref:557-579).",20000.0,48.13434782608695,10,-1.0,2
+558,Female,Bachelors,"$20,000",825.33,23,"I thought the price was high, and I think it is bad (Ref:558-255).",20000.0,35.883913043478266,13,-0.2699999999999999,2
+559,Female,Bachelors,93000,145.35,3,My experience with this: average (Ref:559-716).,93000.0,48.449999999999996,6,-0.15,1
+560,Male,Bachelors,20000,811.17,24,"This is disappointing, you get what you pay for (Ref:560-553).",20000.0,33.79875,10,-0.6,2
+561,Male,Bachelors,"$24,000",414.57,8,"This is as it is, you get what you pay for (Ref:561-958).",24000.0,51.82125,12,0.0,1
+562,Female,Masters,"$46,000",290.59,6,"I believe the price is reasonablen, the product: a normal one (Ref:562-876).",46000.0,48.431666666666665,12,0.15,1
+563,Female,Bachelors,106000,218.55,3,"I believe the price is reasonablen, the product: disappointing (Ref:563-545).",106000.0,72.85000000000001,10,-0.6,0
+564,Male,Masters,27000,82.95,8,My opinion: it is as described (Ref:564-548).,27000.0,10.36875,7,0.0,1
+565,Female,Bachelors,28000,178.31,1,My experience with this: functional (Ref:565-855).,28000.0,178.31,6,0.0,1
+566,Female,Bachelors,"$66,000",589.74,12,My opinion: it is functional (Ref:566-404).,66000.0,49.145,6,0.0,2
+567,Male,Bachelors,"$45,000",521.92,10,"This is great, you get what you pay for (Ref:567-161).",45000.0,52.19199999999999,10,0.8,2
+568,Female,Masters,29000,50.0,1,"I thought the price was high, and I think it is expensive (Ref:568-378).",29000.0,50.0,13,-0.16999999999999998,1
+569,Female,Bachelors,35000,268.25,8,"This is disappointing, you get what you pay for (Ref:569-812).",35000.0,33.53125,10,-0.6,1
+570,Male,Bachelors,"$114,000",989.21,20,"I thought the price was high, and I think it is fantastic (Ref:570-894).",114000.0,49.4605,13,0.28,0
+571,Female,Bachelors,90000,653.66,15,I felt it was great (Ref:571-936).,90000.0,43.57733333333333,6,0.8,0
+572,Female,High School,137000,1007.51,23,My experience with this: functional (Ref:572-685).,137000.0,43.80478260869565,6,0.0,0
+573,Female,High School,"$20,000",557.89,16,Just the facts: it is wonderful (Ref:573-647).,20000.0,34.868125,7,1.0,2
+574,Female,Bachelors,32000,598.53,16,"I thought the price was high, and I think it is frustrating (Ref:574-650).",32000.0,37.408125,13,-0.12000000000000001,2
+575,Female,Bachelors,100000,570.33,18,My experience with this: buggy (Ref:575-787).,100000.0,31.685000000000002,6,0.0,0
+576,Female,Masters,"$100,000",730.71,24,Just the facts: it is as described (Ref:576-540).,100000.0,30.446250000000003,8,0.0,0
+577,Male,Bachelors,"$132,000",448.12,13,My opinion: it is functional (Ref:577-820).,132000.0,34.47076923076923,6,0.0,0
+578,Female,Bachelors,"$118,000",1054.94,18,My opinion: it is great (Ref:578-603).,118000.0,58.607777777777784,6,0.8,0
+579,Female,Bachelors,"$55,000",50.0,1,"I thought the price was high, and I think it is as it is (Ref:579-373).",55000.0,50.0,15,0.16,1
+580,Male,High School,"$36,000",618.84,12,I felt it was expensive (Ref:580-782).,36000.0,51.57,6,-0.5,2
+581,Female,Bachelors,"$53,000",57.51,3,"I thought the price was high, and I think it is expensive (Ref:581-884).",53000.0,19.169999999999998,13,-0.16999999999999998,1
+582,Male,Bachelors,58000,670.99,21,"This is fantastic, you get what you pay for (Ref:582-677).",58000.0,31.951904761904764,10,0.4,2
+583,Female,High School,29000,261.63,14,I felt it was a normal one (Ref:583-214).,29000.0,18.687857142857144,8,0.15,1
+584,Male,Bachelors,"$85,000",2.76,6,"This is frustrating, you get what you pay for (Ref:584-310).",85000.0,0.45999999999999996,10,-0.4,1
+585,Female,Bachelors,97000,845.88,22,"This is fantastic, you get what you pay for (Ref:585-799).",97000.0,38.449090909090906,10,0.4,0
+586,Male,Bachelors,"$70,000",661.23,15,I felt it was terrible (Ref:586-795).,70000.0,44.082,6,-1.0,2
+587,Female,Masters,20000,62.73,6,I felt it was expensive (Ref:587-726).,20000.0,10.455,6,-0.5,1
+588,Male,Bachelors,"$20,000",50.0,1,I felt it was as described (Ref:588-883).,20000.0,50.0,7,0.0,1
+589,Male,Bachelors,"$35,000",596.23,20,Just the facts: it is as it is (Ref:589-107).,35000.0,29.811500000000002,9,0.0,2
+590,Female,Masters,"$20,000",203.06,11,My opinion: it is slow (Ref:590-654).,20000.0,18.46,6,-0.30000000000000004,1
+591,Male,Bachelors,21000,50.0,2,"I believe the price is reasonablen, the product: disappointing (Ref:591-524).",21000.0,25.0,10,-0.6,1
+592,Female,Masters,"$20,000",164.19,2,My opinion: it is slow (Ref:592-946).,20000.0,82.095,6,-0.30000000000000004,1
+593,Female,Bachelors,39000,492.44,9,Just the facts: it is frustrating (Ref:593-296).,39000.0,54.715555555555554,7,-0.4,2
+594,Male,Bachelors,81000,734.6,22,"This is average, you get what you pay for (Ref:594-921).",81000.0,33.39090909090909,10,-0.15,0
+595,Male,Bachelors,"$105,000",880.87,23,My experience with this: a normal one (Ref:595-899).,105000.0,38.29869565217391,8,0.15,0
+596,Male,Bachelors,101000,206.11,6,My experience with this: functional (Ref:596-798).,101000.0,34.35166666666667,6,0.0,0
+597,Male,Masters,26000,203.14,9,I felt it was average (Ref:597-535).,26000.0,22.571111111111108,6,-0.15,1
+598,Male,Bachelors,"$115,000",540.71,11,Just the facts: it is average (Ref:598-456).,115000.0,49.155454545454546,7,-0.15,0
+599,Male,Masters,30000,408.3,15,My opinion: it is as described (Ref:599-332).,30000.0,27.220000000000002,7,0.0,1
+600,Male,Bachelors,"$71,000",667.2,15,"I thought the price was high, and I think it is expensive (Ref:600-718).",71000.0,44.480000000000004,13,-0.16999999999999998,2
+601,Female,High School,20000,636.49,18,My experience with this: as described (Ref:601-399).,20000.0,35.36055555555556,7,0.0,2
+602,Female,Bachelors,"$20,000",704.31,14,My opinion: it is excellent (Ref:602-976).,20000.0,50.30785714285714,6,1.0,2
+603,Male,Bachelors,"$22,000",305.39,11,My opinion: it is terrible (Ref:603-981).,22000.0,27.762727272727272,6,-1.0,1
+604,Male,Masters,"$60,000",985.0,23,I felt it was functional (Ref:604-891).,60000.0,42.82608695652174,6,0.0,2
+605,Male,Bachelors,21000,635.3,20,"I thought the price was high, and I think it is terrible (Ref:605-365).",21000.0,31.764999999999997,13,-0.42,2
+606,Female,Masters,20000,402.37,14,"I believe the price is reasonablen, the product: slow (Ref:606-299).",20000.0,28.740714285714287,10,-0.30000000000000004,1
+607,Female,Bachelors,"$90,000",534.34,8,I felt it was slow (Ref:607-351).,90000.0,66.7925,6,-0.30000000000000004,0
+608,Female,Masters,20000,560.07,10,Just the facts: it is frustrating (Ref:608-234).,20000.0,56.007000000000005,7,-0.4,2
+609,Male,High School,135000,388.25,11,My experience with this: as described (Ref:609-177).,135000.0,35.29545454545455,7,0.0,0
+610,Female,High School,"$20,000",816.42,19,Just the facts: it is excellent (Ref:610-674).,20000.0,42.96947368421053,7,1.0,2
+611,Male,Bachelors,"$63,000",599.49,12,I felt it was frustrating (Ref:611-629).,63000.0,49.9575,6,-0.4,2
+612,Female,Bachelors,"$68,000",666.83,13,"I believe the price is reasonablen, the product: average (Ref:612-363).",68000.0,51.29461538461539,10,-0.15,2
+613,Female,Bachelors,"$20,000",538.36,6,"I believe the price is reasonablen, the product: amazing (Ref:613-632).",20000.0,89.72666666666667,10,0.6000000000000001,2
+614,Female,Bachelors,157000,674.34,14,Just the facts: it is excellent (Ref:614-367).,157000.0,48.167142857142856,7,1.0,0
+615,Male,Bachelors,"$43,000",967.15,18,"I believe the price is reasonablen, the product: disappointing (Ref:615-116).",43000.0,53.730555555555554,10,-0.6,2
+616,Other,High School,"$58,000",821.28,23,I felt it was amazing (Ref:616-691).,58000.0,35.70782608695652,6,0.6000000000000001,2
+617,Male,Bachelors,20000,463.26,13,My friends also agree that it is buggy (Ref:617-594).,20000.0,35.635384615384616,9,0.0,1
+618,Male,Bachelors,"$20,000",110.24,7,My opinion: it is a normal one (Ref:618-908).,20000.0,15.748571428571427,8,0.15,1
+619,Male,Bachelors,111000,1031.91,23,My experience with this: disappointing (Ref:619-884).,111000.0,44.86565217391305,6,-0.6,0
+620,Male,Bachelors,20000,479.47,12,My opinion: it is as described (Ref:620-490).,20000.0,39.95583333333334,7,0.0,1
+621,Male,Masters,"$20,000",750.51,20,"I believe the price is reasonablen, the product: disappointing (Ref:621-800).",20000.0,37.5255,10,-0.6,2
+622,Female,Bachelors,20000,612.05,13,"This is expensive, you get what you pay for (Ref:622-696).",20000.0,47.08076923076923,10,-0.5,2
+623,Male,Bachelors,"$20,000",731.63,19,"I thought the price was high, and I think it is excellent (Ref:623-388).",20000.0,38.50684210526316,13,0.58,2
+624,Female,Bachelors,67000,651.34,11,My friends also agree that it is a normal one (Ref:624-616).,67000.0,59.21272727272728,11,0.15,2
+625,Female,Bachelors,"$93,000",546.36,19,"This is a normal one, you get what you pay for (Ref:625-700).",93000.0,28.75578947368421,12,0.15,0
+626,Male,Bachelors,"$41,000",439.19,9,"I believe the price is reasonablen, the product: frustrating (Ref:626-937).",41000.0,48.79888888888889,10,-0.4,1
+627,Female,Bachelors,20000,353.79,12,Just the facts: it is buggy (Ref:627-622).,20000.0,29.4825,7,0.0,1
+628,Female,Masters,112000,987.4,23,I felt it was amazing (Ref:628-923).,112000.0,42.93043478260869,6,0.6000000000000001,0
+629,Female,Bachelors,"$35,000",78.67,3,"I believe the price is reasonablen, the product: as it is (Ref:629-992).",35000.0,26.223333333333333,12,0.0,1
+630,Female,Bachelors,93000,794.95,9,Just the facts: it is excellent (Ref:630-778).,93000.0,88.32777777777778,7,1.0,0
+631,Male,Bachelors,"$20,000",469.69,12,My experience with this: functional (Ref:631-549).,20000.0,39.14083333333333,6,0.0,1
+632,Female,Bachelors,91000,507.64,8,My opinion: it is great (Ref:632-169).,91000.0,63.455,6,0.8,0
+633,Female,Bachelors,89000,129.53,5,Just the facts: it is slow (Ref:633-417).,89000.0,25.906,7,-0.30000000000000004,1
+634,Male,Bachelors,110000,641.26,11,"I thought the price was high, and I think it is great (Ref:634-793).",110000.0,58.29636363636364,13,0.48000000000000004,0
+635,Female,Masters,113000,511.58,9,I felt it was frustrating (Ref:635-186).,113000.0,56.84222222222222,6,-0.4,0
+636,Male,Bachelors,20000,458.62,14,My opinion: it is as described (Ref:636-323).,20000.0,32.75857142857143,7,0.0,1
+637,Female,Bachelors,22000,143.99,4,"I thought the price was high, and I think it is average (Ref:637-380).",22000.0,35.9975,13,0.0050000000000000044,1
+638,Male,Bachelors,"$30,000",50.0,6,"I thought the price was high, and I think it is buggy (Ref:638-570).",30000.0,8.333333333333334,13,0.16,1
+639,Male,Bachelors,78000,868.73,17,I felt it was lovely (Ref:639-974).,78000.0,51.10176470588235,6,0.5,0
+640,Male,Bachelors,"$37,000",245.65,5,"This is slow, you get what you pay for (Ref:640-424).",37000.0,49.13,10,-0.30000000000000004,1
+641,Male,Bachelors,66000,492.41,19,My friends also agree that it is disappointing (Ref:641-202).,66000.0,25.916315789473686,9,-0.6,2
+642,Female,High School,"$20,000",391.84,4,My opinion: it is disappointing (Ref:642-961).,20000.0,97.96,6,-0.6,1
+643,Male,Bachelors,"$20,000",354.51,7,My experience with this: average (Ref:643-847).,20000.0,50.644285714285715,6,-0.15,1
+644,Female,Masters,20000,154.88,7,My experience with this: bad (Ref:644-912).,20000.0,22.125714285714285,6,-0.6999999999999998,1
+645,Female,Masters,"$103,000",870.83,19,My opinion: it is great (Ref:645-898).,103000.0,45.83315789473684,6,0.8,0
+646,Male,Masters,57000,311.38,8,"I thought the price was high, and I think it is functional (Ref:646-819).",57000.0,38.9225,13,0.16,1
+647,Male,Bachelors,166000,1117.31,22,My friends also agree that it is a normal one (Ref:647-461).,166000.0,50.78681818181818,11,0.15,0
+648,Male,Bachelors,87000,973.04,16,"I thought the price was high, and I think it is great (Ref:648-152).",87000.0,60.815,13,0.48000000000000004,0
+649,Female,Bachelors,"$20,000",528.8,13,I felt it was disappointing (Ref:649-275).,20000.0,40.676923076923075,6,-0.6,2
+650,Male,Bachelors,"$63,000",731.15,21,"I believe the price is reasonablen, the product: disappointing (Ref:650-629).",63000.0,34.81666666666666,10,-0.6,2
+651,Male,Bachelors,"$95,000",459.98,15,My opinion: it is as described (Ref:651-791).,95000.0,30.665333333333333,7,0.0,0
+652,Male,Bachelors,"$130,000",141.23,2,"I thought the price was high, and I think it is terrible (Ref:652-576).",130000.0,70.615,13,-0.42,0
+653,Female,Bachelors,33000,581.8,19,I felt it was wonderful (Ref:653-877).,33000.0,30.621052631578944,6,1.0,2
+654,Male,Masters,"$110,000",577.35,11,"I believe the price is reasonablen, the product: functional (Ref:654-560).",110000.0,52.48636363636364,10,0.0,0
+655,Other,Bachelors,"$47,000",834.15,22,"This is functional, you get what you pay for (Ref:655-675).",47000.0,37.91590909090909,10,0.0,2
+656,Male,High School,33000,84.91,4,My experience with this: buggy (Ref:656-717).,33000.0,21.2275,6,0.0,1
+657,Female,Masters,"$20,000",415.11,12,"This is a normal one, you get what you pay for (Ref:657-483).",20000.0,34.5925,12,0.15,1
+658,Male,Bachelors,"$25,000",50.0,2,"I thought the price was high, and I think it is bad (Ref:658-834).",25000.0,25.0,13,-0.2699999999999999,1
+659,Female,Bachelors,20000,356.66,6,"This is buggy, you get what you pay for (Ref:659-512).",20000.0,59.443333333333335,10,0.0,1
+660,Male,Bachelors,"$47,000",143.78,7,"I thought the price was high, and I think it is functional (Ref:660-171).",47000.0,20.54,13,0.16,1
+661,Female,Bachelors,"$20,000",844.29,19,My opinion: it is wonderful (Ref:661-897).,20000.0,44.43631578947368,6,1.0,2
+662,Female,Bachelors,20000,208.99,3,My opinion: it is a normal one (Ref:662-231).,20000.0,69.66333333333334,8,0.15,1
+663,Male,Bachelors,"$20,000",50.0,1,My experience with this: as described (Ref:663-594).,20000.0,50.0,7,0.0,1
+664,Female,Bachelors,20000,499.1,9,My opinion: it is average (Ref:664-695).,20000.0,55.455555555555556,6,-0.15,2
+665,Male,Bachelors,80000,640.01,17,"I thought the price was high, and I think it is lovely (Ref:665-763).",80000.0,37.64764705882353,13,0.33,0
+666,Female,Bachelors,"$22,000",90.38,3,My opinion: it is functional (Ref:666-532).,22000.0,30.126666666666665,6,0.0,1
+667,Female,Bachelors,"$114,000",363.08,12,I felt it was functional (Ref:667-611).,114000.0,30.256666666666664,6,0.0,0
+668,Male,Bachelors,33000,770.73,20,I felt it was average (Ref:668-951).,33000.0,38.536500000000004,6,-0.15,2
+669,Female,Masters,99000,263.01,5,"I thought the price was high, and I think it is buggy (Ref:669-769).",99000.0,52.602,13,0.16,0
+670,Male,Masters,47000,781.77,19,I felt it was great (Ref:670-120).,47000.0,41.14578947368421,6,0.8,2
+671,Female,Bachelors,"$57,000",288.47,9,"I thought the price was high, and I think it is terrible (Ref:671-116).",57000.0,32.05222222222223,13,-0.42,1
+672,Female,Masters,"$20,000",167.73,3,"I thought the price was high, and I think it is as it is (Ref:672-732).",20000.0,55.91,15,0.16,1
+673,Male,Bachelors,59000,934.36,20,"I believe the price is reasonablen, the product: frustrating (Ref:673-347).",59000.0,46.718,10,-0.4,2
+674,Female,Bachelors,"$41,000",627.38,12,My experience with this: expensive (Ref:674-255).,41000.0,52.281666666666666,6,-0.5,2
+675,Female,Masters,20000,50.0,4,"I believe the price is reasonablen, the product: as described (Ref:675-342).",20000.0,12.5,11,0.0,1
+676,Other,Masters,64000,797.83,16,"I thought the price was high, and I think it is great (Ref:676-251).",64000.0,49.864375,13,0.48000000000000004,2
+677,Male,Bachelors,125000,926.46,21,My experience with this: expensive (Ref:677-275).,125000.0,44.11714285714286,6,-0.5,0
+678,Male,Masters,"$70,000",319.65,9,"I thought the price was high, and I think it is functional (Ref:678-278).",70000.0,35.516666666666666,13,0.16,1
+679,Female,Bachelors,20000,370.24,13,Just the facts: it is as it is (Ref:679-517).,20000.0,28.48,9,0.0,1
+680,Female,Bachelors,"$52,000",656.19,13,"I thought the price was high, and I think it is as described (Ref:680-173).",52000.0,50.47615384615385,14,0.16,2
+681,Female,High School,"$20,000",473.89,11,I felt it was a normal one (Ref:681-585).,20000.0,43.08090909090909,8,0.15,1
+682,Female,Bachelors,40000,426.15,7,"I believe the price is reasonablen, the product: as it is (Ref:682-345).",40000.0,60.878571428571426,12,0.0,1
+683,Female,Bachelors,92000,935.4,16,My friends also agree that it is excellent (Ref:683-805).,92000.0,58.4625,9,1.0,0
+684,Female,Bachelors,"$109,000",527.85,15,"I believe the price is reasonablen, the product: excellent (Ref:684-885).",109000.0,35.190000000000005,10,1.0,0
+685,Male,Bachelors,"$40,000",65.88,2,My opinion: it is disappointing (Ref:685-825).,40000.0,32.94,6,-0.6,1
+686,Female,Masters,"$20,000",441.68,12,Just the facts: it is terrible (Ref:686-532).,20000.0,36.806666666666665,7,-1.0,1
+687,Female,High School,97000,439.22,10,"I believe the price is reasonablen, the product: buggy (Ref:687-638).",97000.0,43.922000000000004,10,0.0,0
+688,Female,Bachelors,"$20,000",552.03,16,Just the facts: it is a normal one (Ref:688-684).,20000.0,34.501875,9,0.15,2
+689,Male,Masters,"$20,000",204.06,7,Just the facts: it is slow (Ref:689-710).,20000.0,29.15142857142857,7,-0.30000000000000004,1
+690,Female,Bachelors,47000,551.99,23,Just the facts: it is excellent (Ref:690-922).,47000.0,23.999565217391304,7,1.0,2
+691,Male,Bachelors,"$20,000",740.82,15,My experience with this: functional (Ref:691-286).,20000.0,49.388000000000005,6,0.0,2
+692,Female,Bachelors,20000,137.33,6,Just the facts: it is disappointing (Ref:692-977).,20000.0,22.888333333333335,7,-0.6,1
+693,Female,High School,"$20,000",402.03,5,"I believe the price is reasonablen, the product: slow (Ref:693-870).",20000.0,80.40599999999999,10,-0.30000000000000004,1
+694,Male,Bachelors,95000,503.09,11,I felt it was amazing (Ref:694-609).,95000.0,45.735454545454544,6,0.6000000000000001,0
+695,Male,Bachelors,"$22,000",547.3,8,"I believe the price is reasonablen, the product: frustrating (Ref:695-647).",22000.0,68.4125,10,-0.4,2
+696,Male,Masters,76000,860.2,19,I felt it was disappointing (Ref:696-945).,76000.0,45.27368421052632,6,-0.6,0
+697,Male,Masters,42000,560.0,14,"I thought the price was high, and I think it is average (Ref:697-473).",42000.0,40.0,13,0.0050000000000000044,2
+698,Female,Masters,"$112,000",711.04,20,I felt it was average (Ref:698-740).,112000.0,35.552,6,-0.15,0
+699,Female,Bachelors,20000,544.98,14,"I thought the price was high, and I think it is great (Ref:699-422).",20000.0,38.92714285714286,13,0.48000000000000004,2
+700,Male,Bachelors,44000,118.21,3,My experience with this: functional (Ref:700-725).,44000.0,39.40333333333333,6,0.0,1
+701,Male,Bachelors,62000,50.0,4,Just the facts: it is average (Ref:701-329).,62000.0,12.5,7,-0.15,1
+702,Male,Bachelors,"$20,000",383.48,8,"I believe the price is reasonablen, the product: as it is (Ref:702-669).",20000.0,47.935,12,0.0,1
+703,Female,Bachelors,"$41,000",640.75,19,My friends also agree that it is lovely (Ref:703-986).,41000.0,33.723684210526315,9,0.5,2
+704,Male,Bachelors,88000,394.54,8,"This is terrible, you get what you pay for (Ref:704-952).",88000.0,49.3175,10,-1.0,0
+705,Female,High School,20000,9.0,2,My opinion: it is a normal one (Ref:705-988).,20000.0,4.5,8,0.15,1
+706,Male,Masters,"$65,000",359.39,7,My friends also agree that it is terrible (Ref:706-597).,65000.0,51.34142857142857,9,-1.0,1
+707,Female,Bachelors,20000,50.0,4,I felt it was frustrating (Ref:707-288).,20000.0,12.5,6,-0.4,1
+708,Male,Bachelors,20000,499.34,15,My opinion: it is frustrating (Ref:708-395).,20000.0,33.28933333333333,6,-0.4,2
+709,Male,Bachelors,"$47,000",273.4,7,"I believe the price is reasonablen, the product: as it is (Ref:709-568).",47000.0,39.05714285714286,12,0.0,1
+710,Female,Bachelors,20000,368.83,4,I felt it was disappointing (Ref:710-894).,20000.0,92.2075,6,-0.6,1
+711,Male,Bachelors,20000,590.82,9,My experience with this: a normal one (Ref:711-258).,20000.0,65.64666666666668,8,0.15,2
+712,Female,Bachelors,20000,199.13,5,"I thought the price was high, and I think it is expensive (Ref:712-383).",20000.0,39.826,13,-0.16999999999999998,1
+713,Male,Masters,"$92,000",924.79,21,"I believe the price is reasonablen, the product: the best (Ref:713-144).",92000.0,44.037619047619046,11,1.0,0
+714,Female,Bachelors,"$65,000",576.53,17,Just the facts: it is frustrating (Ref:714-108).,65000.0,33.913529411764706,7,-0.4,2
+715,Female,High School,"$20,000",440.88,11,"I thought the price was high, and I think it is average (Ref:715-931).",20000.0,40.08,13,0.0050000000000000044,1
+716,Male,Masters,20000,718.58,18,My experience with this: disappointing (Ref:716-764).,20000.0,39.92111111111112,6,-0.6,2
+717,Female,Bachelors,"$74,000",633.98,15,"I thought the price was high, and I think it is slow (Ref:717-249).",74000.0,42.26533333333334,13,-0.07000000000000002,0
+718,Female,Masters,148000,828.14,16,I felt it was the best (Ref:718-401).,148000.0,51.75875,7,1.0,0
+719,Female,Bachelors,"$22,000",270.46,4,"I believe the price is reasonablen, the product: disappointing (Ref:719-620).",22000.0,67.615,10,-0.6,1
+720,Male,Bachelors,"$120,000",678.16,17,My opinion: it is as it is (Ref:720-863).,120000.0,39.89176470588235,8,0.0,0
+721,Male,Bachelors,42000,485.75,12,"I believe the price is reasonablen, the product: disappointing (Ref:721-850).",42000.0,40.479166666666664,10,-0.6,2
+722,Female,High School,97000,228.94,12,My friends also agree that it is bad (Ref:722-559).,97000.0,19.078333333333333,9,-0.6999999999999998,0
+723,Female,Bachelors,"$20,000",552.4,22,My opinion: it is as it is (Ref:723-274).,20000.0,25.10909090909091,8,0.0,2
+724,Female,Bachelors,"$61,000",582.87,12,"This is the best, you get what you pay for (Ref:724-837).",61000.0,48.5725,11,1.0,2
+725,Female,Bachelors,"$20,000",20.52,4,"I believe the price is reasonablen, the product: buggy (Ref:725-728).",20000.0,5.13,10,0.0,1
+726,Female,Bachelors,51000,502.86,15,My experience with this: as described (Ref:726-800).,51000.0,33.524,7,0.0,2
+727,Female,Bachelors,"$20,000",507.19,15,My friends also agree that it is average (Ref:727-118).,20000.0,33.812666666666665,9,-0.15,2
+728,Male,Bachelors,82000,911.39,19,"This is fantastic, you get what you pay for (Ref:728-699).",82000.0,47.967894736842105,10,0.4,0
+729,Female,Masters,106000,966.39,19,Just the facts: it is fantastic (Ref:729-967).,106000.0,50.862631578947365,7,0.4,0
+730,Female,Bachelors,20000,115.01,3,I felt it was buggy (Ref:730-511).,20000.0,38.336666666666666,6,0.0,1
+731,Female,Bachelors,20000,50.0,1,"I thought the price was high, and I think it is as described (Ref:731-630).",20000.0,50.0,14,0.16,1
+732,Male,Bachelors,"$47,000",979.06,18,"I thought the price was high, and I think it is average (Ref:732-450).",47000.0,54.392222222222216,13,0.0050000000000000044,2
+733,Female,Bachelors,"$20,000",703.51,19,"I thought the price was high, and I think it is wonderful (Ref:733-122).",20000.0,37.02684210526316,13,0.58,2
+734,Male,Bachelors,"$20,000",381.66,14,My experience with this: bad (Ref:734-697).,20000.0,27.261428571428574,6,-0.6999999999999998,1
+735,Female,Masters,20000,120.85,2,"This is as it is, you get what you pay for (Ref:735-298).",20000.0,60.425,12,0.0,1
+736,Female,Bachelors,20000,678.77,17,My experience with this: amazing (Ref:736-883).,20000.0,39.92764705882353,6,0.6000000000000001,2
+737,Female,Bachelors,20000,50.0,1,"I believe the price is reasonablen, the product: as described (Ref:737-956).",20000.0,50.0,11,0.0,1
+738,Female,Bachelors,123000,722.27,20,My experience with this: average (Ref:738-445).,123000.0,36.1135,6,-0.15,0
+739,Female,Bachelors,31000,739.15,21,My opinion: it is as described (Ref:739-908).,31000.0,35.19761904761905,7,0.0,2
+740,Male,High School,20000,50.0,1,My opinion: it is as it is (Ref:740-648).,20000.0,50.0,8,0.0,1
+741,Other,Bachelors,45000,448.89,12,"I believe the price is reasonablen, the product: as it is (Ref:741-751).",45000.0,37.4075,12,0.0,1
+742,Male,Bachelors,61000,742.38,21,I felt it was great (Ref:742-570).,61000.0,35.35142857142857,6,0.8,2
+743,Male,Masters,20000,570.94,12,Just the facts: it is as it is (Ref:743-977).,20000.0,47.57833333333334,9,0.0,2
+744,Female,Bachelors,20000,69.49,3,My opinion: it is average (Ref:744-205).,20000.0,23.16333333333333,6,-0.15,1
+745,Male,Masters,"$20,000",152.03,5,My friends also agree that it is functional (Ref:745-379).,20000.0,30.406,9,0.0,1
+746,Female,High School,"$104,000",634.39,15,"I thought the price was high, and I think it is average (Ref:746-508).",104000.0,42.29266666666667,13,0.0050000000000000044,0
+747,Female,Bachelors,"$84,000",322.56,6,My friends also agree that it is bad (Ref:747-605).,84000.0,53.76,9,-0.6999999999999998,1
+748,Male,Bachelors,"$67,000",609.63,9,I felt it was great (Ref:748-136).,67000.0,67.73666666666666,6,0.8,2
+749,Male,Bachelors,22000,89.94,7,My experience with this: expensive (Ref:749-950).,22000.0,12.848571428571429,6,-0.5,1
+750,Female,Bachelors,"$121,000",430.52,13,I felt it was frustrating (Ref:750-508).,121000.0,33.11692307692307,6,-0.4,0
+751,Female,Bachelors,"$20,000",61.91,2,"This is disappointing, you get what you pay for (Ref:751-646).",20000.0,30.955,10,-0.6,1
+752,Male,Bachelors,20000,14.63,2,My opinion: it is functional (Ref:752-103).,20000.0,7.315,6,0.0,1
+753,Female,Bachelors,20000,898.56,22,My opinion: it is as described (Ref:753-582).,20000.0,40.843636363636364,7,0.0,2
+754,Female,Bachelors,41000,804.15,15,"I believe the price is reasonablen, the product: a normal one (Ref:754-559).",41000.0,53.61,12,0.15,2
+755,Female,Bachelors,"$84,000",154.97,1,I felt it was a normal one (Ref:755-388).,84000.0,154.97,8,0.15,1
+756,Female,Masters,64000,500.74,15,My opinion: it is the best (Ref:756-510).,64000.0,33.382666666666665,7,1.0,2
+757,Male,High School,30000,385.1,14,My experience with this: as it is (Ref:757-757).,30000.0,27.50714285714286,8,0.0,1
+758,Female,High School,"$24,000",457.8,9,"I believe the price is reasonablen, the product: frustrating (Ref:758-427).",24000.0,50.86666666666667,10,-0.4,1
+759,Male,High School,"$47,000",329.99,4,"I thought the price was high, and I think it is bad (Ref:759-162).",47000.0,82.4975,13,-0.2699999999999999,1
+760,Female,Bachelors,"$20,000",809.26,16,My experience with this: bad (Ref:760-518).,20000.0,50.57875,6,-0.6999999999999998,2
+761,Male,Bachelors,20000,189.36,7,Just the facts: it is buggy (Ref:761-683).,20000.0,27.051428571428573,7,0.0,1
+762,Other,Bachelors,103000,189.71,4,My friends also agree that it is average (Ref:762-509).,103000.0,47.4275,9,-0.15,0
+763,Male,Bachelors,"$20,000",719.01,16,"I thought the price was high, and I think it is amazing (Ref:763-390).",20000.0,44.938125,13,0.38000000000000006,2
+764,Male,Bachelors,61000,385.24,11,"This is a normal one, you get what you pay for (Ref:764-770).",61000.0,35.02181818181818,12,0.15,1
+765,Male,Bachelors,20000,50.0,2,"This is frustrating, you get what you pay for (Ref:765-264).",20000.0,25.0,10,-0.4,1
+766,Male,Bachelors,107000,798.66,18,My opinion: it is as it is (Ref:766-153).,107000.0,44.37,8,0.0,0
+767,Female,Bachelors,"$62,000",722.86,16,My friends also agree that it is fantastic (Ref:767-214).,62000.0,45.17875,9,0.4,2
+768,Female,Bachelors,20000,373.91,16,My opinion: it is average (Ref:768-671).,20000.0,23.369375,6,-0.15,1
+769,Female,High School,65000,609.45,17,"This is wonderful, you get what you pay for (Ref:769-936).",65000.0,35.85,10,1.0,2
+770,Female,Masters,20000,276.9,5,My opinion: it is terrible (Ref:770-835).,20000.0,55.379999999999995,6,-1.0,1
+771,Female,Bachelors,"$20,000",883.3,23,I felt it was the best (Ref:771-225).,20000.0,38.404347826086955,7,1.0,2
+772,Female,Bachelors,"$20,000",756.23,22,"I believe the price is reasonablen, the product: as described (Ref:772-265).",20000.0,34.37409090909091,11,0.0,2
+773,Female,Masters,"$78,000",487.2,13,Just the facts: it is expensive (Ref:773-418).,78000.0,37.47692307692308,7,-0.5,0
+774,Male,Bachelors,"$20,000",96.48,1,"I believe the price is reasonablen, the product: bad (Ref:774-518).",20000.0,96.48,10,-0.6999999999999998,1
+775,Female,Bachelors,"$30,000",71.14,3,"This is terrible, you get what you pay for (Ref:775-113).",30000.0,23.713333333333335,10,-1.0,1
+776,Male,Masters,"$20,000",104.32,3,"This is buggy, you get what you pay for (Ref:776-668).",20000.0,34.77333333333333,10,0.0,1
+777,Male,Bachelors,"$78,000",1184.83,23,"This is buggy, you get what you pay for (Ref:777-684).",78000.0,51.514347826086954,10,0.0,0
+778,Male,Bachelors,"$64,000",687.44,14,My friends also agree that it is amazing (Ref:778-135).,64000.0,49.10285714285715,9,0.6000000000000001,2
+779,Male,Bachelors,"$20,000",330.52,2,I felt it was expensive (Ref:779-552).,20000.0,165.26,6,-0.5,1
+780,Male,Bachelors,"$76,000",238.94,7,My experience with this: functional (Ref:780-881).,76000.0,34.13428571428572,6,0.0,1
+781,Male,Bachelors,"$98,000",725.33,11,"This is expensive, you get what you pay for (Ref:781-540).",98000.0,65.93909090909091,10,-0.5,0
+782,Other,Masters,"$20,000",881.45,22,I felt it was bad (Ref:782-414).,20000.0,40.065909090909095,6,-0.6999999999999998,2
+783,Male,Bachelors,42000,793.71,17,I felt it was expensive (Ref:783-409).,42000.0,46.68882352941176,6,-0.5,2
+784,Other,Bachelors,68000,474.79,15,"I believe the price is reasonablen, the product: slow (Ref:784-377).",68000.0,31.65266666666667,10,-0.30000000000000004,2
+785,Female,Masters,20000,602.97,8,My opinion: it is a normal one (Ref:785-866).,20000.0,75.37125,8,0.15,2
+786,Male,Bachelors,"$52,000",882.26,22,My friends also agree that it is wonderful (Ref:786-701).,52000.0,40.10272727272727,9,1.0,2
+787,Female,Bachelors,"$106,000",929.65,22,"I thought the price was high, and I think it is amazing (Ref:787-764).",106000.0,42.25681818181818,13,0.38000000000000006,0
+788,Female,Masters,48000,50.0,4,"I thought the price was high, and I think it is disappointing (Ref:788-240).",48000.0,12.5,13,-0.21999999999999997,1
+789,Male,Bachelors,"$97,000",557.94,14,My experience with this: buggy (Ref:789-231).,97000.0,39.85285714285715,6,0.0,0
+790,Female,Bachelors,93000,431.82,13,"I thought the price was high, and I think it is buggy (Ref:790-445).",93000.0,33.216923076923074,13,0.16,0
+791,Male,Masters,"$24,000",1205.39,23,My friends also agree that it is terrible (Ref:791-727).,24000.0,52.40826086956522,9,-1.0,2
+792,Male,Bachelors,"$93,000",630.43,22,Just the facts: it is a normal one (Ref:792-555).,93000.0,28.655909090909088,9,0.15,0
+793,Male,Masters,20000,413.29,14,"I believe the price is reasonablen, the product: expensive (Ref:793-700).",20000.0,29.520714285714288,10,-0.5,1
+794,Female,Masters,"$20,000",212.18,7,My experience with this: as it is (Ref:794-791).,20000.0,30.31142857142857,8,0.0,1
+795,Male,Masters,63000,631.43,17,Just the facts: it is bad (Ref:795-830).,63000.0,37.142941176470586,7,-0.6999999999999998,2
+796,Female,Bachelors,90000,786.83,19,"I thought the price was high, and I think it is excellent (Ref:796-104).",90000.0,41.4121052631579,13,0.58,0
+797,Male,Bachelors,"$40,000",672.04,14,"This is terrible, you get what you pay for (Ref:797-635).",40000.0,48.00285714285714,10,-1.0,2
+798,Female,Bachelors,"$91,000",783.36,20,"This is the best, you get what you pay for (Ref:798-275).",91000.0,39.168,11,1.0,0
+799,Female,Masters,20000,190.34,7,Just the facts: it is frustrating (Ref:799-399).,20000.0,27.19142857142857,7,-0.4,1
+800,Female,Bachelors,"$20,000",302.93,9,"I believe the price is reasonablen, the product: functional (Ref:800-118).",20000.0,33.65888888888889,10,0.0,1
+801,Female,Bachelors,"$20,000",151.63,8,Just the facts: it is expensive (Ref:801-118).,20000.0,18.95375,7,-0.5,1
+802,Male,Bachelors,90000,650.35,19,My experience with this: terrible (Ref:802-833).,90000.0,34.22894736842105,6,-1.0,0
+803,Female,Bachelors,"$20,000",922.35,19,I felt it was a normal one (Ref:803-952).,20000.0,48.544736842105266,8,0.15,2
+804,Female,Bachelors,"$20,000",234.55,5,My friends also agree that it is functional (Ref:804-544).,20000.0,46.910000000000004,9,0.0,1
+805,Male,Masters,"$84,000",149.08,5,My experience with this: slow (Ref:805-161).,84000.0,29.816000000000003,6,-0.30000000000000004,1
+806,Female,Bachelors,124000,138.0,4,"This is terrible, you get what you pay for (Ref:806-105).",124000.0,34.5,10,-1.0,0
+807,Male,High School,20000,105.79,8,My friends also agree that it is expensive (Ref:807-510).,20000.0,13.22375,9,-0.5,1
+808,Female,Bachelors,112000,726.21,19,My opinion: it is expensive (Ref:808-912).,112000.0,38.22157894736842,6,-0.5,0
+809,Female,Bachelors,"$74,000",1221.4,20,"I believe the price is reasonablen, the product: fantastic (Ref:809-257).",74000.0,61.07000000000001,10,0.4,0
+810,Male,Bachelors,65000,570.59,9,My friends also agree that it is average (Ref:810-507).,65000.0,63.39888888888889,9,-0.15,2
+811,Male,Masters,23000,50.0,3,Just the facts: it is functional (Ref:811-941).,23000.0,16.666666666666668,7,0.0,1
+812,Male,Masters,73000,594.13,19,My friends also agree that it is the best (Ref:812-296).,73000.0,31.27,10,1.0,2
+813,Female,Bachelors,"$55,000",590.64,15,My opinion: it is disappointing (Ref:813-418).,55000.0,39.376,6,-0.6,2
+814,Male,Bachelors,"$104,000",344.05,10,My friends also agree that it is as it is (Ref:814-908).,104000.0,34.405,11,0.0,0
+815,Female,Bachelors,20000,915.48,19,"I believe the price is reasonablen, the product: wonderful (Ref:815-934).",20000.0,48.183157894736844,10,1.0,2
+816,Male,Bachelors,42000,690.59,23,"This is lovely, you get what you pay for (Ref:816-534).",42000.0,30.025652173913045,10,0.5,2
+817,Male,Bachelors,"$58,000",156.48,4,"This is bad, you get what you pay for (Ref:817-985).",58000.0,39.12,10,-0.6999999999999998,1
+818,Male,Bachelors,57000,652.03,12,Just the facts: it is buggy (Ref:818-966).,57000.0,54.33583333333333,7,0.0,2
+819,Female,Bachelors,69000,764.49,21,"I believe the price is reasonablen, the product: as it is (Ref:819-212).",69000.0,36.40428571428571,12,0.0,2
+820,Female,Masters,"$20,000",693.12,13,My experience with this: fantastic (Ref:820-708).,20000.0,53.316923076923075,6,0.4,2
+821,Female,Bachelors,65000,310.19,6,My opinion: it is terrible (Ref:821-517).,65000.0,51.69833333333333,6,-1.0,1
+822,Male,Bachelors,"$20,000",572.87,15,"I thought the price was high, and I think it is great (Ref:822-817).",20000.0,38.19133333333333,13,0.48000000000000004,2
+823,Female,Bachelors,20000,460.22,6,"This is as it is, you get what you pay for (Ref:823-753).",20000.0,76.70333333333333,12,0.0,1
+824,Male,High School,"$20,000",37.12,6,My opinion: it is slow (Ref:824-580).,20000.0,6.1866666666666665,6,-0.30000000000000004,1
+825,Male,Masters,"$20,000",398.77,14,Just the facts: it is terrible (Ref:825-518).,20000.0,28.483571428571427,7,-1.0,1
+826,Male,Bachelors,29000,328.8,11,"I thought the price was high, and I think it is as it is (Ref:826-369).",29000.0,29.89090909090909,15,0.16,1
+827,Male,Bachelors,71000,454.49,11,"I believe the price is reasonablen, the product: a normal one (Ref:827-213).",71000.0,41.31727272727273,12,0.15,2
+828,Male,Bachelors,"$51,000",199.67,2,"I thought the price was high, and I think it is terrible (Ref:828-715).",51000.0,99.835,13,-0.42,1
+829,Female,Bachelors,"$74,000",1047.34,22,"This is expensive, you get what you pay for (Ref:829-349).",74000.0,47.60636363636363,10,-0.5,0
+830,Female,Bachelors,"$88,000",1069.94,22,Just the facts: it is average (Ref:830-171).,88000.0,48.63363636363636,7,-0.15,0
+831,Female,Bachelors,20000,121.49,6,Just the facts: it is bad (Ref:831-562).,20000.0,20.24833333333333,7,-0.6999999999999998,1
+832,Female,Bachelors,124000,948.22,21,My experience with this: wonderful (Ref:832-542).,124000.0,45.153333333333336,6,1.0,0
+833,Male,Masters,"$20,000",505.13,14,"I believe the price is reasonablen, the product: as it is (Ref:833-454).",20000.0,36.080714285714286,12,0.0,2
+834,Male,Bachelors,"$20,000",408.84,12,My experience with this: a normal one (Ref:834-817).,20000.0,34.07,8,0.15,1
+835,Female,Bachelors,"$28,000",327.87,7,"I thought the price was high, and I think it is as described (Ref:835-885).",28000.0,46.83857142857143,14,0.16,1
+836,Female,High School,70000,712.6,23,My friends also agree that it is as described (Ref:836-129).,70000.0,30.982608695652175,10,0.0,2
+837,Male,Bachelors,112000,852.34,20,I felt it was as described (Ref:837-661).,112000.0,42.617000000000004,7,0.0,0
+838,Female,Bachelors,"$198,000",1031.22,18,My experience with this: as described (Ref:838-998).,198000.0,57.29,7,0.0,0
+839,Male,Bachelors,"$20,000",55.93,2,My friends also agree that it is slow (Ref:839-828).,20000.0,27.965,9,-0.30000000000000004,1
+840,Female,Masters,"$28,000",721.95,20,My friends also agree that it is fantastic (Ref:840-246).,28000.0,36.097500000000004,9,0.4,2
+841,Male,Bachelors,190000,1139.25,23,I felt it was excellent (Ref:841-192).,190000.0,49.53260869565217,6,1.0,0
+842,Male,Bachelors,27000,50.0,1,My friends also agree that it is a normal one (Ref:842-809).,27000.0,50.0,11,0.15,1
+843,Male,Masters,"$23,000",711.86,19,I felt it was lovely (Ref:843-525).,23000.0,37.46631578947368,6,0.5,2
+844,Female,Masters,"$58,000",693.24,18,My opinion: it is amazing (Ref:844-869).,58000.0,38.513333333333335,6,0.6000000000000001,2
+845,Female,Bachelors,66000,50.0,6,My opinion: it is buggy (Ref:845-320).,66000.0,8.333333333333334,6,0.0,1
+846,Male,Bachelors,137000,556.76,13,"I believe the price is reasonablen, the product: bad (Ref:846-602).",137000.0,42.82769230769231,10,-0.6999999999999998,0
+847,Female,Bachelors,94000,419.65,7,"This is bad, you get what you pay for (Ref:847-706).",94000.0,59.949999999999996,10,-0.6999999999999998,0
+848,Male,Masters,"$75,000",833.63,21,"This is a normal one, you get what you pay for (Ref:848-691).",75000.0,39.696666666666665,12,0.15,0
+849,Female,Masters,"$197,000",1114.79,23,My opinion: it is excellent (Ref:849-286).,197000.0,48.469130434782606,6,1.0,0
+850,Male,Bachelors,20000,772.35,16,"I thought the price was high, and I think it is lovely (Ref:850-544).",20000.0,48.271875,13,0.33,2
+851,Female,Bachelors,26000,552.67,14,My opinion: it is buggy (Ref:851-869).,26000.0,39.47642857142857,6,0.0,2
+852,Female,Bachelors,20000,136.84,7,My friends also agree that it is functional (Ref:852-749).,20000.0,19.548571428571428,9,0.0,1
+853,Female,Bachelors,"$85,000",857.38,15,My friends also agree that it is as it is (Ref:853-325).,85000.0,57.15866666666667,11,0.0,0
+854,Male,Masters,20000,272.35,11,My experience with this: disappointing (Ref:854-461).,20000.0,24.75909090909091,6,-0.6,1
+855,Female,Masters,"$20,000",436.81,14,"This is as it is, you get what you pay for (Ref:855-786).",20000.0,31.200714285714287,12,0.0,1
+856,Other,Bachelors,"$20,000",296.38,13,"This is slow, you get what you pay for (Ref:856-459).",20000.0,22.798461538461538,10,-0.30000000000000004,1
+857,Female,High School,"$82,000",625.81,18,My opinion: it is fantastic (Ref:857-896).,82000.0,34.767222222222216,6,0.4,0
+858,Female,Bachelors,20000,331.68,11,My opinion: it is as described (Ref:858-681).,20000.0,30.152727272727272,7,0.0,1
+859,Male,Bachelors,"$48,000",802.72,16,I felt it was as described (Ref:859-457).,48000.0,50.17,7,0.0,2
+860,Female,High School,"$20,000",509.74,9,My experience with this: a normal one (Ref:860-922).,20000.0,56.63777777777778,8,0.15,2
+861,Female,Bachelors,69000,399.67,12,My opinion: it is a normal one (Ref:861-624).,69000.0,33.30583333333333,8,0.15,1
+862,Female,Bachelors,"$37,000",672.29,12,"I believe the price is reasonablen, the product: slow (Ref:862-167).",37000.0,56.024166666666666,10,-0.30000000000000004,2
+863,Male,Bachelors,"$20,000",907.72,21,My friends also agree that it is wonderful (Ref:863-160).,20000.0,43.224761904761905,9,1.0,2
+864,Female,Bachelors,"$105,000",560.93,11,"I thought the price was high, and I think it is as it is (Ref:864-116).",105000.0,50.99363636363636,15,0.16,0
+865,Female,Bachelors,37000,487.1,9,My opinion: it is frustrating (Ref:865-475).,37000.0,54.12222222222223,6,-0.4,2
+866,Female,Bachelors,"$33,000",524.18,11,"I believe the price is reasonablen, the product: as described (Ref:866-845).",33000.0,47.65272727272727,11,0.0,2
+867,Female,Bachelors,"$29,000",350.23,13,"This is frustrating, you get what you pay for (Ref:867-367).",29000.0,26.94076923076923,10,-0.4,1
+868,Female,Bachelors,"$88,000",801.42,13,My opinion: it is disappointing (Ref:868-107).,88000.0,61.6476923076923,6,-0.6,0
+869,Male,Bachelors,"$31,000",892.45,22,Just the facts: it is disappointing (Ref:869-225).,31000.0,40.565909090909095,7,-0.6,2
+870,Other,Bachelors,"$67,000",50.0,1,"This is slow, you get what you pay for (Ref:870-330).",67000.0,50.0,10,-0.30000000000000004,1
+871,Male,Masters,"$20,000",543.52,6,"I thought the price was high, and I think it is as described (Ref:871-602).",20000.0,90.58666666666666,14,0.16,2
+872,Male,Bachelors,"$73,000",1031.98,21,My experience with this: great (Ref:872-302).,73000.0,49.14190476190476,6,0.8,0
+873,Male,Bachelors,"$20,000",408.42,8,I felt it was as described (Ref:873-310).,20000.0,51.0525,7,0.0,1
+874,Male,Bachelors,"$56,000",50.0,5,My friends also agree that it is buggy (Ref:874-823).,56000.0,10.0,9,0.0,1
+875,Female,Bachelors,"$90,000",871.11,20,My experience with this: wonderful (Ref:875-546).,90000.0,43.5555,6,1.0,0
+876,Male,Bachelors,"$20,000",50.0,2,My friends also agree that it is a normal one (Ref:876-725).,20000.0,25.0,11,0.15,1
+877,Male,Bachelors,55000,655.06,19,"I believe the price is reasonablen, the product: great (Ref:877-243).",55000.0,34.47684210526315,10,0.8,2
+878,Male,Bachelors,"$20,000",175.51,8,"This is functional, you get what you pay for (Ref:878-298).",20000.0,21.93875,10,0.0,1
+879,Female,Masters,56000,607.46,17,My friends also agree that it is buggy (Ref:879-805).,56000.0,35.73294117647059,9,0.0,2
+880,Female,Bachelors,75000,940.95,20,"This is buggy, you get what you pay for (Ref:880-696).",75000.0,47.0475,10,0.0,0
+881,Male,Bachelors,"$92,000",908.76,22,"This is slow, you get what you pay for (Ref:881-400).",92000.0,41.307272727272725,10,-0.30000000000000004,0
+882,Male,Bachelors,"$20,000",442.57,10,Just the facts: it is as described (Ref:882-403).,20000.0,44.257,8,0.0,1
+883,Female,Bachelors,"$85,000",668.41,14,My experience with this: average (Ref:883-456).,85000.0,47.74357142857143,6,-0.15,0
+884,Male,Masters,20000,522.87,12,My experience with this: great (Ref:884-476).,20000.0,43.5725,6,0.8,2
+885,Female,Bachelors,20000,183.66,6,I felt it was average (Ref:885-305).,20000.0,30.61,6,-0.15,1
+886,Female,Masters,"$20,000",371.98,4,"This is functional, you get what you pay for (Ref:886-778).",20000.0,92.995,10,0.0,1
+887,Female,Bachelors,"$72,000",13.69,4,"This is a normal one, you get what you pay for (Ref:887-399).",72000.0,3.4225,12,0.15,1
+888,Male,Bachelors,"$147,000",517.71,19,"I thought the price was high, and I think it is amazing (Ref:888-378).",147000.0,27.247894736842106,13,0.38000000000000006,0
+889,Female,Bachelors,102000,734.03,19,My friends also agree that it is functional (Ref:889-832).,102000.0,38.63315789473684,9,0.0,0
+890,Male,Bachelors,"$20,000",156.6,6,"I thought the price was high, and I think it is terrible (Ref:890-718).",20000.0,26.099999999999998,13,-0.42,1
+891,Male,Masters,"$25,000",535.83,10,My experience with this: as it is (Ref:891-148).,25000.0,53.583000000000006,8,0.0,2
+892,Male,Bachelors,"$29,000",345.4,10,"This is expensive, you get what you pay for (Ref:892-135).",29000.0,34.54,10,-0.5,1
+893,Male,High School,52000,822.07,16,"I believe the price is reasonablen, the product: functional (Ref:893-472).",52000.0,51.379375,10,0.0,2
+894,Female,Bachelors,20000,678.2,21,My experience with this: functional (Ref:894-821).,20000.0,32.2952380952381,6,0.0,2
+895,Other,Bachelors,20000,163.22,9,"I thought the price was high, and I think it is expensive (Ref:895-765).",20000.0,18.135555555555555,13,-0.16999999999999998,1
+896,Male,Masters,64000,1061.66,24,"I thought the price was high, and I think it is fantastic (Ref:896-628).",64000.0,44.23583333333334,13,0.28,2
+897,Female,High School,118000,832.5,22,"This is the best, you get what you pay for (Ref:897-731).",118000.0,37.84090909090909,11,1.0,0
+898,Female,Bachelors,"$83,000",581.47,13,"I thought the price was high, and I think it is wonderful (Ref:898-123).",83000.0,44.72846153846154,13,0.58,0
+899,Female,Bachelors,"$76,000",746.77,21,My opinion: it is as described (Ref:899-347).,76000.0,35.56047619047619,7,0.0,0
+900,Male,Bachelors,94000,984.99,23,Just the facts: it is expensive (Ref:900-888).,94000.0,42.82565217391304,7,-0.5,0
+901,Male,Bachelors,87000,287.25,6,Just the facts: it is disappointing (Ref:901-959).,87000.0,47.875,7,-0.6,1
+902,Female,Bachelors,"$84,000",395.68,12,I felt it was a normal one (Ref:902-619).,84000.0,32.973333333333336,8,0.15,0
+903,Male,Masters,54000,247.68,16,"I believe the price is reasonablen, the product: expensive (Ref:903-840).",54000.0,15.48,10,-0.5,1
+904,Other,Bachelors,93000,1100.88,23,"This is lovely, you get what you pay for (Ref:904-734).",93000.0,47.86434782608696,10,0.5,0
+905,Female,Bachelors,48000,106.72,5,"This is expensive, you get what you pay for (Ref:905-823).",48000.0,21.344,10,-0.5,1
+906,Male,Bachelors,25000,743.7,14,"I believe the price is reasonablen, the product: functional (Ref:906-134).",25000.0,53.121428571428574,10,0.0,2
+907,Other,Bachelors,"$78,000",360.08,3,I felt it was buggy (Ref:907-594).,78000.0,120.02666666666666,6,0.0,1
+908,Male,Bachelors,"$20,000",69.32,4,"This is terrible, you get what you pay for (Ref:908-175).",20000.0,17.33,10,-1.0,1
+909,Female,Bachelors,"$99,000",406.98,9,"I thought the price was high, and I think it is frustrating (Ref:909-685).",99000.0,45.22,13,-0.12000000000000001,0
+910,Male,Bachelors,"$77,000",447.78,9,Just the facts: it is bad (Ref:910-286).,77000.0,49.75333333333333,7,-0.6999999999999998,0
+911,Female,Bachelors,"$165,000",229.77,4,My opinion: it is as described (Ref:911-847).,165000.0,57.4425,7,0.0,0
+912,Male,High School,85000,926.97,22,My friends also agree that it is fantastic (Ref:912-821).,85000.0,42.135,9,0.4,0
+913,Female,Bachelors,"$143,000",1023.18,23,I felt it was functional (Ref:913-807).,143000.0,44.48608695652174,6,0.0,0
+914,Other,Masters,"$20,000",357.32,17,"I thought the price was high, and I think it is disappointing (Ref:914-316).",20000.0,21.018823529411765,13,-0.21999999999999997,1
+915,Female,Bachelors,101000,758.97,11,My experience with this: frustrating (Ref:915-630).,101000.0,68.99727272727273,6,-0.4,0
+916,Female,High School,128000,955.15,22,My experience with this: a normal one (Ref:916-860).,128000.0,43.41590909090909,8,0.15,0
+917,Female,Bachelors,41000,473.48,11,"I believe the price is reasonablen, the product: expensive (Ref:917-234).",41000.0,43.04363636363637,10,-0.5,2
+918,Female,Bachelors,"$30,000",171.2,1,"I believe the price is reasonablen, the product: expensive (Ref:918-815).",30000.0,171.2,10,-0.5,1
+919,Female,Bachelors,"$118,000",529.87,7,Just the facts: it is a normal one (Ref:919-675).,118000.0,75.69571428571429,9,0.15,0
+920,Female,Masters,"$76,000",139.13,10,My friends also agree that it is a normal one (Ref:920-441).,76000.0,13.913,11,0.15,1
+921,Male,Bachelors,20000,269.33,6,"This is terrible, you get what you pay for (Ref:921-937).",20000.0,44.88833333333333,10,-1.0,1
+922,Male,Masters,"$20,000",224.52,3,"This is bad, you get what you pay for (Ref:922-181).",20000.0,74.84,10,-0.6999999999999998,1
+923,Male,Masters,"$91,000",705.75,14,Just the facts: it is terrible (Ref:923-667).,91000.0,50.410714285714285,7,-1.0,0
+924,Female,Bachelors,107000,749.7,14,My experience with this: as it is (Ref:924-585).,107000.0,53.550000000000004,8,0.0,0
+925,Female,Bachelors,"$37,000",236.24,10,"This is a normal one, you get what you pay for (Ref:925-857).",37000.0,23.624000000000002,12,0.15,1
+926,Male,High School,101000,50.0,2,My opinion: it is average (Ref:926-681).,101000.0,25.0,6,-0.15,1
+927,Female,Bachelors,20000,50.0,4,My experience with this: terrible (Ref:927-870).,20000.0,12.5,6,-1.0,1
+928,Female,Bachelors,20000,156.34,5,My friends also agree that it is terrible (Ref:928-527).,20000.0,31.268,9,-1.0,1
+929,Male,Bachelors,"$20,000",161.75,2,"I thought the price was high, and I think it is expensive (Ref:929-403).",20000.0,80.875,13,-0.16999999999999998,1
+930,Male,Masters,"$20,000",366.76,6,I felt it was average (Ref:930-400).,20000.0,61.126666666666665,6,-0.15,1
+931,Male,Masters,"$28,000",463.78,16,My friends also agree that it is frustrating (Ref:931-913).,28000.0,28.98625,9,-0.4,1
+932,Male,Bachelors,"$20,000",386.94,11,My opinion: it is functional (Ref:932-588).,20000.0,35.17636363636364,6,0.0,1
+933,Male,Bachelors,"$24,000",248.99,5,My friends also agree that it is terrible (Ref:933-730).,24000.0,49.798,9,-1.0,1
+934,Male,Bachelors,"$51,000",212.38,2,My opinion: it is a normal one (Ref:934-764).,51000.0,106.19,8,0.15,1
+935,Female,Masters,20000,520.66,14,My opinion: it is fantastic (Ref:935-986).,20000.0,37.19,6,0.4,2
+936,Other,Bachelors,96000,255.89,7,"I believe the price is reasonablen, the product: frustrating (Ref:936-720).",96000.0,36.55571428571428,10,-0.4,0
+937,Male,Bachelors,"$65,000",577.78,17,My friends also agree that it is expensive (Ref:937-794).,65000.0,33.98705882352941,9,-0.5,2
+938,Female,Bachelors,"$53,000",513.49,11,My experience with this: bad (Ref:938-282).,53000.0,46.68090909090909,6,-0.6999999999999998,2
+939,Female,Bachelors,44000,556.52,14,"This is terrible, you get what you pay for (Ref:939-568).",44000.0,39.75142857142857,10,-1.0,2
+940,Female,Bachelors,63000,235.8,2,"I believe the price is reasonablen, the product: slow (Ref:940-764).",63000.0,117.9,10,-0.30000000000000004,1
+941,Male,Bachelors,51000,151.53,6,I felt it was as it is (Ref:941-174).,51000.0,25.255,8,0.0,1
+942,Male,High School,"$127,000",965.06,24,"I thought the price was high, and I think it is as it is (Ref:942-742).",127000.0,40.21083333333333,15,0.16,0
+943,Male,Bachelors,20000,239.19,11,My friends also agree that it is average (Ref:943-850).,20000.0,21.744545454545456,9,-0.15,1
+944,Female,Bachelors,"$30,000",324.08,6,"I believe the price is reasonablen, the product: disappointing (Ref:944-173).",30000.0,54.01333333333333,10,-0.6,1
+945,Male,Bachelors,209000,957.51,23,My friends also agree that it is a normal one (Ref:945-416).,209000.0,41.63086956521739,11,0.15,0
+946,Female,Bachelors,28000,332.81,9,"I thought the price was high, and I think it is functional (Ref:946-100).",28000.0,36.97888888888889,13,0.16,1
+947,Male,Bachelors,"$21,000",722.27,10,"This is buggy, you get what you pay for (Ref:947-655).",21000.0,72.227,10,0.0,2
+948,Male,Bachelors,"$100,000",744.65,18,"I thought the price was high, and I think it is great (Ref:948-909).",100000.0,41.36944444444444,13,0.48000000000000004,0
+949,Male,Bachelors,"$20,000",911.81,20,My experience with this: wonderful (Ref:949-793).,20000.0,45.5905,6,1.0,2
+950,Male,Masters,20000,761.46,15,"I believe the price is reasonablen, the product: functional (Ref:950-149).",20000.0,50.764,10,0.0,2
+951,Male,Bachelors,86000,670.02,8,My experience with this: great (Ref:951-378).,86000.0,83.7525,6,0.8,0
+952,Female,Masters,51000,605.18,20,"This is disappointing, you get what you pay for (Ref:952-656).",51000.0,30.258999999999997,10,-0.6,2
+953,Male,Masters,"$41,000",815.07,16,My opinion: it is lovely (Ref:953-509).,41000.0,50.941875,6,0.5,2
+954,Male,Bachelors,35000,517.9,12,Just the facts: it is fantastic (Ref:954-982).,35000.0,43.15833333333333,7,0.4,2
+955,Male,Bachelors,"$48,000",638.25,13,Just the facts: it is terrible (Ref:955-419).,48000.0,49.09615384615385,7,-1.0,2
+956,Male,Bachelors,"$126,000",320.68,11,I felt it was a normal one (Ref:956-848).,126000.0,29.152727272727272,8,0.15,0
+957,Female,Bachelors,39000,919.65,21,My friends also agree that it is bad (Ref:957-403).,39000.0,43.792857142857144,9,-0.6999999999999998,2
+958,Male,Bachelors,20000,963.76,22,"This is as it is, you get what you pay for (Ref:958-911).",20000.0,43.807272727272725,12,0.0,2
+959,Male,Bachelors,"$69,000",710.64,16,My friends also agree that it is fantastic (Ref:959-983).,69000.0,44.415,9,0.4,2
+960,Female,Bachelors,35000,266.01,5,"This is bad, you get what you pay for (Ref:960-279).",35000.0,53.202,10,-0.6999999999999998,1
+961,Other,Masters,"$64,000",474.34,5,Just the facts: it is slow (Ref:961-636).,64000.0,94.868,7,-0.30000000000000004,2
+962,Female,Masters,20000,568.05,19,My opinion: it is the best (Ref:962-369).,20000.0,29.89736842105263,7,1.0,2
+963,Female,Masters,20000,798.83,17,"I believe the price is reasonablen, the product: disappointing (Ref:963-833).",20000.0,46.99,10,-0.6,2
+964,Female,Masters,"$103,000",592.44,12,Just the facts: it is as described (Ref:964-569).,103000.0,49.370000000000005,8,0.0,0
+965,Male,Bachelors,23000,245.51,11,My friends also agree that it is frustrating (Ref:965-540).,23000.0,22.319090909090907,9,-0.4,1
+966,Male,Bachelors,100000,1287.49,23,Just the facts: it is functional (Ref:966-835).,100000.0,55.97782608695652,7,0.0,0
+967,Female,Bachelors,"$20,000",769.48,21,"I believe the price is reasonablen, the product: bad (Ref:967-467).",20000.0,36.64190476190476,10,-0.6999999999999998,2
+968,Male,Bachelors,144000,844.5,19,I felt it was as it is (Ref:968-798).,144000.0,44.44736842105263,8,0.0,0
+969,Female,Bachelors,45000,50.0,1,My opinion: it is as described (Ref:969-225).,45000.0,50.0,7,0.0,1
+970,Female,Bachelors,"$132,000",1048.92,24,I felt it was fantastic (Ref:970-490).,132000.0,43.705000000000005,6,0.4,0
+971,Female,High School,"$36,000",1176.39,23,My friends also agree that it is functional (Ref:971-158).,36000.0,51.14739130434783,9,0.0,2
+972,Female,Bachelors,63000,419.9,5,"I thought the price was high, and I think it is bad (Ref:972-115).",63000.0,83.97999999999999,13,-0.2699999999999999,1
+973,Male,Bachelors,40000,283.18,3,Just the facts: it is a normal one (Ref:973-661).,40000.0,94.39333333333333,9,0.15,1
+974,Female,Bachelors,102000,893.97,23,My opinion: it is slow (Ref:974-261).,102000.0,38.86826086956522,6,-0.30000000000000004,0
+975,Male,Bachelors,20000,42.9,3,"I believe the price is reasonablen, the product: as it is (Ref:975-569).",20000.0,14.299999999999999,12,0.0,1
+976,Male,Bachelors,"$60,000",861.11,10,I felt it was terrible (Ref:976-120).,60000.0,86.111,6,-1.0,2
+977,Male,High School,20000,50.0,2,"I believe the price is reasonablen, the product: functional (Ref:977-822).",20000.0,25.0,10,0.0,1
+978,Female,Bachelors,20000,61.24,2,My experience with this: terrible (Ref:978-238).,20000.0,30.62,6,-1.0,1
+979,Male,Bachelors,20000,569.55,17,"This is terrible, you get what you pay for (Ref:979-861).",20000.0,33.502941176470586,10,-1.0,2
+980,Female,Bachelors,104000,282.61,8,My experience with this: a normal one (Ref:980-819).,104000.0,35.32625,8,0.15,0
+981,Male,Bachelors,"$20,000",534.08,6,My friends also agree that it is bad (Ref:981-848).,20000.0,89.01333333333334,9,-0.6999999999999998,2
+982,Male,Bachelors,101000,377.39,6,My experience with this: as it is (Ref:982-559).,101000.0,62.89833333333333,8,0.0,0
+983,Female,Bachelors,20000,335.49,6,My opinion: it is disappointing (Ref:983-767).,20000.0,55.915,6,-0.6,1
+984,Male,Masters,104000,632.93,11,My opinion: it is as described (Ref:984-708).,104000.0,57.5390909090909,7,0.0,0
+985,Male,Bachelors,"$20,000",728.16,16,My experience with this: a normal one (Ref:985-331).,20000.0,45.51,8,0.15,2
+986,Female,Bachelors,20000,49.75,4,My opinion: it is expensive (Ref:986-740).,20000.0,12.4375,6,-0.5,1
+987,Female,Masters,"$20,000",459.99,15,"This is frustrating, you get what you pay for (Ref:987-434).",20000.0,30.666,10,-0.4,1
+988,Male,Bachelors,20000,737.2,18,My opinion: it is bad (Ref:988-388).,20000.0,40.955555555555556,6,-0.6999999999999998,2
+989,Female,Bachelors,"$143,000",1025.13,24,My experience with this: as described (Ref:989-419).,143000.0,42.713750000000005,7,0.0,0
+990,Other,High School,65000,868.6,21,My opinion: it is amazing (Ref:990-675).,65000.0,41.36190476190476,6,0.6000000000000001,2
+991,Female,Masters,66000,330.63,5,"This is bad, you get what you pay for (Ref:991-442).",66000.0,66.126,10,-0.6999999999999998,1
+992,Male,Bachelors,20000,738.74,24,"I believe the price is reasonablen, the product: disappointing (Ref:992-659).",20000.0,30.780833333333334,10,-0.6,2
+993,Female,Bachelors,20000,713.44,15,"I thought the price was high, and I think it is the best (Ref:993-638).",20000.0,47.56266666666667,14,0.58,2
+994,Male,Masters,20000,718.31,21,I felt it was disappointing (Ref:994-552).,20000.0,34.205238095238094,6,-0.6,2
+995,Female,Masters,"$58,000",835.64,19,"I thought the price was high, and I think it is functional (Ref:995-166).",58000.0,43.98105263157895,13,0.16,2
+996,Other,Bachelors,"$103,000",381.46,12,Just the facts: it is as it is (Ref:996-600).,103000.0,31.78833333333333,9,0.0,0
+997,Male,Bachelors,89000,968.73,24,"This is excellent, you get what you pay for (Ref:997-612).",89000.0,40.36375,10,1.0,0
+998,Female,Masters,83000,1045.05,22,"I thought the price was high, and I think it is great (Ref:998-500).",83000.0,47.502272727272725,13,0.48000000000000004,0
+999,Male,High School,"$78,000",547.17,14,"This is the best, you get what you pay for (Ref:999-827).",78000.0,39.083571428571425,11,1.0,0
+1000,Female,Bachelors,"$20,000",171.0,7,My experience with this: as it is (Ref:1000-986).,20000.0,24.428571428571427,8,0.0,1
