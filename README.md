@@ -28,11 +28,22 @@ This project implements a complete **Customer Intelligence Pipeline** that:
 
 ### Model Performance
 
-| Model | Task | Metric | Score |
-|-------|------|--------|-------|
-| Linear Regression | Predict Total Spend | R² Score | **0.7607** |
-| K-Means (K=3) | Customer Segmentation | Segments | 3 distinct groups |
-| KNN Classification | Predict Gender | Accuracy | 0.4550 |
+| Model | Task | Metric | Score | Verdict |
+|-------|------|--------|-------|---------|
+| Linear Regression | Predict total spend | R² | **0.7607** on 200 held-out rows | Works |
+| K-Means (K=3) | Segmentation | Segment sizes | 263 / 401 / 336 | Works |
+| KNN (k=5) | Predict gender | Accuracy | 0.4550 | **Fails — below baseline** |
+
+> **The KNN model does not work, and that is the finding.** Its 0.4550 accuracy sits *below* the
+> majority-class baseline of **0.5090**. The notebook computes that baseline, compares against it,
+> and prints "The model does not significantly outperform baseline." Read this as evidence that
+> **income and spending carry no gender signal** in this dataset, which is a legitimate negative
+> result, not as a model to improve.
+
+### Dataset
+
+1,002 source rows, 1,000 after removing 2 exact duplicates. 117 `Education` values arrived as the
+literal string `'nan'` and were imputed to the mode.
 
 ### Customer Segments Identified
 
@@ -41,6 +52,10 @@ This project implements a complete **Customer Intelligence Pipeline** that:
 | 0 | Premium Customers | $108,232 | $715 | 263 |
 | 1 | Budget Buyers | $31,865 | $233 | 401 |
 | 2 | Loyal Spenders | $37,616 | $706 | 336 |
+
+Centroids are inverse-transformed back to dollar space so they stay interpretable. Regression
+coefficients show visit frequency dominates: **37.01 per visit against 0.0009 per income dollar**,
+with total spend correlating to visits at **0.8818**.
 
 ## 🛠️ Tech Stack
 
@@ -60,8 +75,9 @@ customer-intelligence-pipeline/
 ├── AAI5025_Final_Project_Notebook.ipynb   # Main Jupyter notebook
 ├── user_data.db                            # SQLite database (raw data)
 ├── final_processed_capstone_data.csv       # Processed output data
-├── AAI5025_Final_Project_Report.pdf        # Final analysis report
+├── Final_Project_Report_Instructions.pdf   # Assignment brief
 ├── README.md                               # Project documentation
+├── gitignore                               # NOTE: missing leading dot, currently inactive
 └── requirements.txt                        # Python dependencies
 ```
 
@@ -76,8 +92,8 @@ customer-intelligence-pipeline/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/customer-intelligence-pipeline.git
-   cd customer-intelligence-pipeline
+   git clone https://github.com/Ruthvik-Bandari/Customer-intelligence-pipeline.git
+   cd Customer-intelligence-pipeline
    ```
 
 2. **Install dependencies**
@@ -116,7 +132,8 @@ customer-intelligence-pipeline/
 1. **Strong Spending Predictor**: Visit frequency and income explain 76% of spending variation
 2. **Income Doesn't Drive Satisfaction**: Customer sentiment is independent of income level
 3. **Loyal Spenders Segment**: Moderate-income customers with high spending represent a key retention target
-4. **Gender-Neutral Purchasing**: Spending patterns don't significantly differ by gender
+4. **Gender-Neutral Purchasing**: Spending patterns carry no usable gender signal — the KNN
+   classifier scored below its own majority-class baseline, which is the evidence for this claim
 
 ## 📝 Methodology
 
@@ -157,6 +174,26 @@ kmeans = KMeans(n_clusters=3, random_state=42)
 df['User_Segment'] = kmeans.fit_predict(X_scaled)
 ```
 
+
+## ✅ Methodological notes
+
+Practices worth pointing at, since they are the difference between a pipeline that generalises and
+one that leaks:
+
+- `StandardScaler` is **fit on the training split only** and `.transform()` applied to test.
+- Splitting is **stratified** on a target whose minority class is 45 of 1,000.
+- Scaling happens **before** K-Means, with centroids inverse-transformed for interpretation.
+- Cleaning is fully **vectorised** — no Python row loops.
+- `random_state=42` and an explicit `n_init=10` throughout, so runs reproduce.
+
+## ⚠️ Limitations
+
+- Single dataset of 1,000 rows, single train/test split, no cross-validation.
+- Sentiment is TextBlob polarity on short review text, which is coarse.
+- The gender classifier is a documented negative result, not a working model.
+- `user_data.db` and `.DS_Store` are committed; `gitignore` is missing its leading dot so it has no
+  effect.
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -165,7 +202,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Ruthvik Bandari**
 - GitHub: [@Ruthvik-Bandari](https://github.com/Ruthvik-Bandari)
-- LinkedIn: [Ruthvik Bandari](https://www.linkedin.com/in/ruthvik-nath-bandari-908b00247/)
+- LinkedIn: [Ruthvik Bandari](https://www.linkedin.com/in/ruthvik-nath-bandari/)
 
 ## 🙏 Acknowledgments
 
